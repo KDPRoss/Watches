@@ -1,0 +1,66 @@
+external : 30 : #729f98
+  case : 20
+    size : 25
+    material : 20
+    water resistance : 10
+    lug width : 10
+    shape : 15
+    finishing : 10
+    back : 10
+      securing : 50
+      pattern : 50
+  crystal : 20
+    front : 60
+      shape : 20
+      material : 40
+      legibility : 40
+    back : 40
+      material : 50
+      appropriate : 50
+  crown : 20
+    operation : 25
+    confidence : 30
+    logo : 20
+    screw-down : 25
+  bezel : 20
+    material : 25
+    markings : 25
+    operation : 50
+  pushers / buttons : 20
+    operation : 50
+    placement : 50
+
+internal : 30 : #283018
+  dial : 20
+    colours : 20
+    pattern : 20
+    markings : 40
+    logo : 20
+  hands : 15
+    shape : 60
+    legibility : 40
+  lume : 10
+    brightness : 50
+    usability : 50
+  features : 25
+    <points for each> : 50
+    overall usability : 50
+  movement : 30
+    quality : 10
+    decoration : 10
+    power reserve : 10
+    in-house : 10
+    ease of servicing : 10
+    sweep quality : 25
+    features : 10
+      hacking : 50
+      hand-windable : 50
+    sound : 15
+
+overall : 40 : #aa863a
+  concept : 15
+  execution : 25
+  versitility : 10
+    of use : 50
+    strap options : 50
+  'K-factor' : 50
