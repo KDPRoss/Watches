@@ -1,0 +1,83 @@
+external$case$size                       := 10
+external$case$material                   := 10
+external$case$water resistance           := 10
+external$case$lug width                  := 10
+external$case$shape                      := 8
+-- Bit pokey at the extremes of the lugs; wouldn't mind
+-- slightly-larger crown guards.
+external$case$finishing                  := 8
+-- Would have preferred a bit more brushing and fewer
+-- polished surfaces -- just a bit more tooly, show fewer
+-- fingerprints.
+external$case$back$securing              := 10
+external$case$back$pattern               := 9
+-- Logo nice, calls back trident on the second hand and wave
+-- of dial, although looks to me like the case-back trident
+-- is a bit more rounded than the one on the second hand --
+-- would be nice if they were identical (except for scale).
+external$crystal$front$shape             :=  10
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 10
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 8
+-- A bit hard to remember which way to turn the crown at the
+-- first stop to access the date / GMT-hand function.
+external$crown$confidence                := 10
+external$crown$logo                      := 10
+external$crown$screw-down                := 10
+external$bezel$material                  := 10
+-- Love the ceramic: Great BRG colour, nice shininess.
+external$bezel$markings                  := 8
+-- Would have preferred numerals at 2 / 4 / 6; 8 is very
+-- dim; not sure if this is a manufacturing defect (always
+-- like this) or if the paint's worn off.
+external$bezel$operation                 := 9
+-- *Tiny* bit of play; moves very confidently; 120-click;
+-- *was *extremely* stiff at first.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+-- Love the wave patterning.
+internal$dial$markings                   := 10
+-- Nicely-applied markings, like the minutes track round the
+-- outside. Like the depth-rating text in the same orange as
+-- the GMT hand.
+internal$dial$logo                       := 5
+-- Inconsistent logo with the crown; would prefer that it be
+-- applied.
+internal$hands$shape                     := 10
+-- Love the 'onion' hour and the orange on the GMT.
+internal$hands$legibility                := 9
+-- Can be a bit tricky to see the GMT hand when the minutes
+-- hand is over it (although you can, then, infer where it
+-- is because you *can't* see it).
+internal$lume$brightness                 := 9
+-- Pearl lume very good.
+internal$lume$usability                  := 10
+internal$features$<points for each>      := 9
+-- Love the date window (silver round the aperture), wish
+-- that GMT hand could be operated in *both* directions.
+internal$features$overall usability      := 8
+-- Date is illegible when covered by either the GMT or
+-- minute hand.
+internal$movement$quality                := 10
+internal$movement$decoration             := 9
+-- Only seen photos, but movement decoration appears to be
+-- extremely minimal; rotor is signed but undecorated.
+internal$movement$power reserve          := 4
+-- Said to be 42 hours.
+internal$movement$in-house               := 0
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 9
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 9
+-- Seems to be quite muffled by the case, but high-pitched,
+-- regular, slightly 'pingy'.
+overall$concept                          := 10
+overall$execution                        := 10
+overall$versitility$of use               := 10
+overall$versitility$strap options        := 10
+overall$'K-factor'                       := 10
