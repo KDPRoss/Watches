@@ -2,32 +2,61 @@
 external : 30 : #729f98
   case : 20
     size : 25
+      -- For modern watches, 38-40mm seems to be the ideal size
+      -- (for me); obviously, vintage pieces are expected to be
+      -- smaller. Lug-to-lug matters here, also, of course.
     material : 20
+      -- Don't particularly like the look of (yellow, rose, red)
+      -- gold (too 'flashy'), but, although I prefer 'practical'
+      -- metals (stainless steel, titanium) or 'modern' materials
+      -- (ceramic), I don't mind the look of platinum. I don't
+      -- like anything plated or coated with anything (This
+      -- eliminates most white gold (usually rhodium-plated), any
+      -- sort of gold plating, PVD or DLC.).
     water resistance : 10
+      -- No score for vintage / dressy pieces.
     lug width : 10
+      -- 20mm preferred, but 22 or 18 are also easy to find straps
+      -- for; odd sizes are a hassle.
     shape : 15
     finishing : 10
     back : 10
       securing : 50
+        -- Is the back 'appropriately' attached?
       pattern : 50
   crystal : 20
     front : 60
       shape : 20
       material : 40
+        -- Strongly prefer sapphire for scratch resistance; I've had
+        -- problems (particularly with divers) that have mineral
+        -- crystal, and acrylic requires some extra carefulness
+        -- (eliminating the possibility (for me) of being an
+        -- everyday watch).
       legibility : 40
     back : 40
+      -- Only for exhibition backs.
       material : 50
+        -- I mind *much less* if a case-back crystal is mineral: My
+        -- wrist isn't terribly abrasive ;~P
       appropriate : 50
+        -- Does a case-back crystal make any sense? If the movement
+        -- is undecorated, probably not.
   crown : 20
     operation : 25
     confidence : 30
+      -- Does it feel 'solid' or is there 'crown wobble'?
     logo : 20
     screw-down : 25
+      -- Only score this if it's a sporty sort of watch (i.e., 'X'
+      -- otherwise).
   bezel : 20
     material : 25
     markings : 25
     operation : 50
+      -- No score if it's a fixed bezel.
   pushers / buttons : 20
+    -- Only score if it's a watch that has pushers / buttons.
     operation : 50
     placement : 50
 
@@ -36,6 +65,9 @@ internal : 30 : #283018
     colours : 20
     pattern : 20
     markings : 40
+      -- This includes the hour markers / those on subdials,
+      -- informational text (e.g., water resistance, feature list,
+      -- 'Swiss Made'), outer markings / chapter ring.
     logo : 20
   hands : 15
     shape : 60
@@ -43,25 +75,52 @@ internal : 30 : #283018
   lume : 10
     brightness : 50
     usability : 50
+      -- This is primarily focused at capturing: 'Can the watch
+      -- actually be used in the dark?' (e.g., Is it possible to
+      -- tell the orientation and use the complications?)
   features : 25
+    -- This ought to have been labelled 'complications'. Due to
+    -- technical limitations of my toolchain, give a *single*
+    -- aggregate rating for all of the complications.
     <points for each> : 50
     overall usability : 50
   movement : 30
-    quality : 10
-    decoration : 10
+    quality : 16
+      -- This includes accuracy and reliability.
+    decoration : 7
+      -- Probably ought to decrease the weight on this, given that
+      -- haute horologie isn't really my thing ... but I *do* love
+      -- a movement where someone's taken the time to finish
+      -- things nicely.
     power reserve : 10
-    in-house : 10
-    ease of servicing : 10
-    sweep quality : 25
-    features : 10
-      hacking : 50
-      hand-windable : 50
-    sound : 15
+      -- I've arbitrarily chosen to take 120 hours as the
+      -- 'standard' for power reserve; this score will be power
+      -- reserve hours divided by 120, rounded to the nearest
+      -- whole number, with a maximum of 10.
+    in-house : 13
+      -- Given my watch preferences, this weight is probably a bit
+      -- high; I suppose it's taking a philosophical stand for
+      -- tradition and for the future of watchmaking.
+    ease of servicing : 7
+    sweep quality : 22
+    features : 13
+      hacking : 40
+      hand-windable : 60
+        -- Only score this for automatics; not being able to wind by
+        -- hand to start the movement is quite annoying.
+    sound : 12
 
 overall : 40 : #aa863a
   concept : 15
   execution : 25
   versitility : 10
     of use : 50
+      -- What contexts is it usable in? Could it be worn with
+      -- sandals, hiking, diving, to dinner, with a necktie
+      -- (That's about as 'dressy' as I get these days ... besides
+      -- wearing 'dress' watches in non-dressy contexts 0:~})
     strap options : 50
+      -- Does it look good on a Nato, leather, rubber strap? ...
+      -- on a mesh, metal bracelet?
   'K-factor' : 50
+    -- What does the watch 'say' to me?
