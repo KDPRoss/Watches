@@ -1,0 +1,104 @@
+-- Citizen Eco-Drive Diver BN0000-04H
+-- Width (incl. guard, excl. crown): 42,8mm
+-- Width (incl. crown): 43,9mm
+-- Bezel diameter (outer): 39,5mm
+-- Crystal diameter: 27,4mm
+-- Dial diameter (estimated): 22,8mm
+-- Lug width: 20mm
+-- Lug-to-lug: 45,6mm
+-- Thickness: 12,1mm
+
+external$case$size                       := 10
+-- Although it's a bit bigger than I normally prefer, the
+-- design, particularly the smaller face, means that it
+-- wears smaller.
+external$case$material                   := 10
+-- Not able to work out what kind of stainless steel.
+external$case$water resistance           := 10
+-- 300m is quite adequate for recreational diving.
+external$case$lug width                  := 10
+external$case$shape                      := 9
+-- Nice, smooth curves give an almost-organic shape.
+external$case$finishing                  := 8
+-- Like the brushing, but there are some abrupt lines that
+-- visually break the smooth appearance.
+external$case$back$securing              := X
+-- The watch is sealed and the case back doesn't open.
+external$case$back$pattern               := 7
+-- Standard 'Eco-Drive' badging; might have preferred
+-- something dive-themed. I do like that the patterning in
+-- the background echos that on the dial.
+external$crystal$front$shape             := 10
+external$crystal$front$material          := 5
+-- Would prefer something harder; my previous ones got a bit
+-- scratched.
+external$crystal$front$legibility        := 8
+-- Great legibility underwater, but AR could be a bit
+-- better.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 2
+-- Crown is *tiny* and relatively hard to unscrew.
+external$crown$confidence                := 6
+-- A bit wobly.
+external$crown$logo                      := 0
+-- No logo, although it's not clear where they might have
+-- fitted it.
+external$crown$screw-down                := 5
+-- Threading isn't great.
+external$bezel$material                  := 8
+-- Not sure what the insert material is, but it's prone to
+-- scratching; bezel itself is SS.
+external$bezel$markings                  := 10
+-- Very legible; like the split triangle at 12 matching the
+-- one on the face.
+external$bezel$operation                 := 7
+-- 60 clicks, very loud.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+-- Small grid-indentation pattern catches light without
+-- being distracting.
+internal$dial$markings                   := 10
+-- Applied markings, well-positioned.
+internal$dial$logo                       := 10
+-- Applied logo / broad arrow
+internal$hands$shape                     := 8
+-- I like the rounded-arrow hands: They're fat, which allows
+-- for good area for lume, not super-fussed about the
+-- second hand.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 9
+-- Nice and bright; decent staying power; perfectly visible
+-- at the end of the dive; pearl could be brighter.
+internal$lume$usability                  := 10
+internal$features$<points for each>      := 7
+-- Date is quite small and is recessed quite deeply, making
+-- it difficult to read from some angles; nice that they
+-- framed the window, however.
+internal$features$overall usability      := 7
+internal$movement$quality                := 8
+-- Unexciting but very reliable.
+internal$movement$decoration             := X
+-- No idea what it looks like.
+internal$movement$power reserve          := 10
+internal$movement$in-house               := 10
+internal$movement$ease of servicing      := 0
+-- Seems impossible to service movement.
+internal$movement$sweep quality          := 0
+-- Tick, tick, tick.
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := X
+internal$movement$sound                  := 4
+-- At least the ticking is fairly quiet.
+overall$concept                          := 10
+-- Great, low-cost quartz diver that 'never' needs battery
+-- replacement.
+overall$execution                        := 9
+overall$versitility$of use               := 9
+-- Great outdoors watch; perfectly-good everyday watch.
+overall$versitility$strap options        := 10
+-- Looks great on a Nato of most colours, rubber, leather, etc.
+overall$'K-factor'                       := 5
+-- Very usable, just not very exciting.
