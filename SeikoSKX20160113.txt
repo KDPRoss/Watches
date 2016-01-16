@@ -1,0 +1,122 @@
+-- Seiko SKK007J1
+-- Width: 42,4mm
+-- Width (incl. crown): 45,7mm
+-- Bezel diameter: 41mm
+-- Crystal diameter: 31,2mm
+-- Dial diameter (estimated): 26,3mm
+-- Lug width: 22mm
+-- Lug-to-lug: 45,8mm
+-- Thickness: 13,5mm
+
+external$case$size                       := 9
+-- Although it's on the big size, it wears slightly smaller,
+-- prabably because of the relatively short lug-to-lug
+-- distance. I possibly would have preferred the SKX013, but
+-- I decided to go for 'the classic'.
+external$case$material                   := 10
+-- 316L SS.
+external$case$water resistance           := 9
+-- 200m ought to be adequate for recreational diving, but
+-- I'd rather see at least 300m ... Maybe I'm irrational
+-- about this, but I *do* think of a dive watch as a piece
+-- of safety equipment, and I want it rated *way* beyond the
+-- limits I'm going to push.
+external$case$lug width                  := 9
+-- Rather prefer 20mm.
+external$case$shape                      := 10
+-- Love the iconic curves with the off-centre crown
+-- positioning, even though it's asymmetrical.
+external$case$finishing                  := 8
+-- Although it's relatively well-executed, I'd prefer more
+-- brushing and less polishing on a tool / beater watch.
+external$case$back$securing              := 10
+external$case$back$pattern               := 10
+-- Love the tsunami pattern in the centre.
+external$crystal$front$shape             := 10
+-- Just lightly bevelled around the perimeter.
+external$crystal$front$material          := 7
+-- Underwater, scratching has been my biggest problem; I'd
+-- really prefer sapphire, although it's unrealistic to
+-- expect that at the SKX's pricepoint.
+external$crystal$front$legibility        := 8
+-- Get a lot of reflections.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 10
+external$crown$confidence                := 6
+-- It's somewhat wobbly.
+external$crown$logo                      := 0
+-- Signed crown would have been nice, either 'Seiko'
+-- (matching the logo on the dial) or the 'S' that's found
+-- on some models.
+external$crown$screw-down                := 9
+-- A bit tricky to get seated properly when screwing down,
+-- but otherwise great.
+external$bezel$material                  := 10
+-- SS bezel; I *think* that the insert is aluminium.
+external$bezel$markings                  := 10
+-- Very legible.
+external$bezel$operation                 := 10
+-- The bezel is shockingly good -- especially on such an
+-- inexpensive watch: 120 click, very pleasant sound, very
+-- smooth, almost no play.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+internal$dial$markings                   := 7
+-- Chapter ring misaligned, a couple of the index lumes are
+-- slightly off-centre; tiny bubbles visible in some of the
+-- lume applications.
+internal$dial$logo                       := 7
+-- Printed logo rather than applied; tiny bubbles visible in
+-- some of the printed text.
+internal$hands$shape                     := 10
+-- Love the minutes arrow; think that the half-white /
+-- half-black seconds hand was an interesting choice and
+-- provides a visually-stunning illusion of the floating
+-- counterweight.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 10
+-- Lume is *great*!
+internal$lume$usability                  := 10
+-- Very easy to find 12 o'clock and read the watch in the
+-- dark.
+internal$features$<points for each>      := 7
+-- Day / date window has a nice bevelled cut; don't like the
+-- visible gap between the day / date wheels, though. Also
+-- don't like that it takes *ages* for the day / date
+-- flip-over to occur.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+-- Great, reliable 7s26.
+internal$movement$decoration             := 4
+-- No decoration at all; finishing looks quite rough.
+internal$movement$power reserve          := 4
+-- Reserve claimed at 42 hours; I'd *really* like it to be
+-- longer given that it's not possible to hand wind.
+internal$movement$in-house               := 10
+internal$movement$ease of servicing      := X
+-- Not sure what to mark this: I've read people advising to
+-- simply replace the watch rather than having the movement
+-- serviced.
+internal$movement$sweep quality          := 8
+internal$movement$features$hacking       := 0
+internal$movement$features$hand-windable := 0
+-- This is really annoying!
+internal$movement$sound                  := 4
+-- With the thick steel case, it's *very* muffled.
+overall$concept                          := 10
+-- Great, inexpensive, tooly beater!
+overall$execution                        := 9
+overall$versitility$of use               := 9
+overall$versitility$strap options        := 10
+-- Pretty much looks good on *anything*; love that there are
+-- the aftermarket StrapCode bracelets which fit to
+-- *incredible* tolerances.
+overall$'K-factor'                       := 8
+-- Despite minor shortcomings, it's just a great watch;
+-- during a week+ when I wore *only* the SKX, I realised
+-- that I could be perfectly happy with *only* the SKX ...
+-- although I've no plans to get rid of the rest of my
+-- collection ;~P

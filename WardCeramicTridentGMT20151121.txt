@@ -1,3 +1,11 @@
+-- Christopher Ward Ceramic 38mm GMT (C60-38-GMT-SKVS)
+-- diameter: 38,2mm
+-- diameter with crown: 41,9mm
+-- bezel: 38,0mm
+-- crystal: 29,0mm
+-- lug width: 20mm
+-- lug-to-lug distance: 45,3mm
+-- thickness: 13,2mm
 external$case$size                       := 10
 external$case$material                   := 10
 external$case$water resistance           := 10
