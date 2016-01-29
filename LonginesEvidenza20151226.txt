@@ -1,0 +1,125 @@
+-- Longines Evidenza L2.642.4.73.4
+-- Width: 33mm
+-- Width (incl. crown): 35,8mm
+-- Crystal diameter (diagonal): 37,6
+-- Lug width: 18mm
+-- Lug-to-lug: 45,2mm
+-- Thickness (centre of crystal to centre of back): 10,6mm
+
+external$case$size                       := 10
+-- Because of the tonneau shape, it wears smaller.
+external$case$material                   := 10
+-- Not able to work out what kind of stainless steel.
+external$case$water resistance           := 10
+-- Rated to 30m; what you'd expect for a dress watch.
+external$case$lug width                  := 10
+-- I was tempted to give it a lower score, but with the case
+-- shape, it *has* to narrow down.
+external$case$shape                      := 8
+-- I love tonneaus, but I would prefer that it be *slightly*
+-- more angular (or a bit less curvy) ... The Vacheron Malte
+-- is closer to the shape that I *really* like.
+external$case$finishing                  := 9
+-- All-polished makes sense on a dress watch ... but it
+-- picks up scratches very easily.
+external$case$back$securing              := 10
+-- It's secured quite elegantly with screws at each corner.
+external$case$back$pattern               := 9
+-- I think it's laser engraved; the old 1889 Longines
+-- winged-hourglass logo [[ The InterWebs inform me that
+-- *this* is the oldest trademark still in use. ]].
+external$crystal$front$shape             := 10
+-- This is probably my favourite aspect of the watch: *Love*
+-- the dramatically-curved domed sapphire.
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 10
+-- The distortion is shockingly low, and the dial is highly
+-- readable from almost any angle.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 7
+-- I find it a bit difficult to pull the crown out;
+-- otherwise, it's quite good to operate.
+external$crown$confidence                := 10
+-- Very confident, no wiggle.
+external$crown$logo                      := 8
+-- 'Longines' + winged-hourglass logo, matching the face;
+-- I might have just done the hourglass, centred and larger.
+external$crown$screw-down                := X
+external$bezel$material                  := X
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+-- Very classic silver with blue text nicely matching the
+-- blued hands.
+internal$dial$pattern                    := 10
+-- I love the sunburst effect from the guilloche texturing.
+-- (Okay, apparently, this is technically flinqué since it's
+-- nonoverlapping.) When I wear this watch, I do get
+-- hypnotised by the way that the light plays on it.
+internal$dial$markings                   := 9
+-- Love the interestingly-shaped Arabic numerals; the
+-- printing is quite nice given that it's on
+-- a dramatically-textured dial. Could do without
+-- 'Automatic' beneath the logo, though, just to keep things
+-- cleaner.
+internal$dial$logo                       := 9
+-- Nicely-applied winged-hourglass logo, although 'Longines' above
+-- it is printed.
+internal$hands$shape                     := 10
+-- Leaf-shaped is one of my favourites; these remind me of
+-- many of the H. Moser hands (except for the colour).
+internal$hands$legibility                := 10
+internal$lume$brightness                 := X
+internal$lume$usability                  := X
+internal$features$<points for each>      := 5
+-- I *hate* the date window. It looks like someone printed
+-- the full dial with a complete '6' and then just cut the
+-- date window, obliterating half of the numeral (and a tiny
+-- but of the subseconds dial). The window is partially
+-- bevelled; the date numerals are black and in
+-- a *totally-different* font to the hour markers.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+-- Nice, reliable ETA 2895; wish they'd just call it that
+-- instead of insisting on saying 'L615', although they are
+-- forthcoming that it's an ETA.
+internal$movement$decoration             := 8
+-- From photo's that I've seen, the rotor is perlaged with
+-- printed information; it looks like the other visible
+-- portion of the movement is done in a combination of
+-- perlage and snailing.
+internal$movement$power reserve          := 4
+-- Reserve claimed to be 42 hours.
+internal$movement$in-house               := 5
+-- 'Partial credit' being part of Swatch. (?)
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 5
+-- Despite being *tiny* the second hand has always looked
+-- jerky to me.
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 9
+-- Somehow, some combination of the case shape and the
+-- presumably-thin back make it sound relatively loud but
+-- extremely pleasant. I'd actually not noticed this before!
+overall$concept                          := 9
+-- Very classic dressy watch with an interesting shape but
+-- otherwise understanted design.
+overall$execution                        := 8
+-- I'm still slightly ragey about the date window.
+overall$versitility$of use               := 6
+-- Given how many scratches mine has -- and I've not taken
+-- it on 'serious' adventures -- it seems that it's best
+-- suited ta 'safe' environments.
+overall$versitility$strap options        := 6
+-- I *do* sometimes wear it on a Nato, but I don't totally
+-- think I'm pulling it off. Love it on my Milanese; looks
+-- great on leather (although I don't wear it on the stock
+-- strap much -- I'm *just* between two holes); I maybe
+-- could see it on a muted-colour high-quality rubber strap.
+overall$'K-factor'                       := 6
+-- At some point, I realised that this was a 'substitute
+-- buy' for the Franck Muller Casablanca.
