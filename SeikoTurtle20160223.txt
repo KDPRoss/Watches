@@ -1,0 +1,98 @@
+-- Seiko SRP777
+-- Width: 44,7mm
+-- Width (incl. crown): 48,8mm
+-- Bezel diameter: 42,0
+-- Crystal diameter: 31,8mm
+-- Dial diameter (estimated): 27,1mm
+-- Lug width: 22mm
+-- Lug-to-lug: 47,7mm
+-- Thickness: 13,2mm
+
+external$case$size                       := 7
+-- It wears somewhat smaller than the numbers would suggest,
+-- but I'd rather that it were slightly-more-modestly-sized.
+external$case$material                   := 10
+-- SS, assuming 316L, but I can't find any direct evidence
+-- to support this.
+external$case$water resistance           := 9
+external$case$lug width                  := 10
+-- Given the large case, anything smaller would look weird.
+external$case$shape                      := 10
+-- Turtle FTW! Love the drilled lugs.
+external$case$finishing                  := 8
+-- Brushing feels a bit crude; the watch is too shiny with
+-- all of the polished surfaces; love the polishing,
+-- however, around the 'crown slot'.
+external$case$back$securing              := 10
+external$case$back$pattern               := 9
+-- Text feels a bit left-skewed.
+external$crystal$front$shape             := 9
+-- Totally flat.
+external$crystal$front$material          := 7
+-- I'd prefer sapphire if I were going to use this as my
+-- dive watch.
+external$crystal$front$legibility        := 9
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 8
+-- Don't like that the winding mechanism is engaged whilst
+-- screwing down the crown.
+external$crown$confidence                := 6
+-- It's quite wobbly.
+external$crown$logo                      := 0
+-- Would have been happy with the Seiko 'S' or the Prospex
+-- 'X'.
+external$crown$screw-down                := 10
+external$bezel$material                  := 10
+external$bezel$markings                  := 10
+external$bezel$operation                 := 8
+-- Quite loud & can feel some vibration when rotating.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+internal$dial$markings                   := 8
+-- Chapter ring misaligned; otherwise, well-executed.
+internal$dial$logo                       := 7
+-- Printed logo; printing isn't perfect -- tiny bubbles.
+internal$hands$shape                     := 10
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 10
+-- I think that the lume is even better than on the SKX --
+-- especially on the hour hand.
+internal$lume$usability                  := 10
+internal$features$<points for each>      := 7
+-- Date flip takes forever; window is bevelled; gap between
+-- discs.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+-- Japan-built 4R36.
+internal$movement$decoration             := 4
+-- Only seen photos on other models; finishing looks very
+-- rough.
+internal$movement$power reserve          := 3
+-- Claimed 41 hours; don't mind so much (compared to the
+-- SKX) since it's hand-windable.
+internal$movement$in-house               := 10
+internal$movement$ease of servicing      := X
+internal$movement$sweep quality          := 8
+-- A bit jerky, but at 21,6k alt/hr, this is expected.
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 6
+overall$concept                          := 10
+-- Reissue of the classic Turtle ... with modernised
+-- movement, updated markers, drilled lugs, and day.
+overall$execution                        := 9
+-- In the large, well done; just some minor niggles
+-- (unsigned crown, too much polishing, winding whilst
+-- screwing down crown).
+overall$versitility$of use               := 9
+overall$versitility$strap options        := 10
+-- Looks great on leather, Nato, rubber; can't wait to get
+-- a mesh or Oyster!
+overall$'K-factor'                       := 8
+-- Great watch; as I said with the SKX, I could see being
+-- happy with *only* this watch ... although this is
+-- improved in almost every respect over the SKX -- the
+-- exceptions being: Size and bezel.
