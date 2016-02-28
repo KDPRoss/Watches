@@ -87,8 +87,8 @@ overall$execution                        := 9
 -- In the large, well done; just some minor niggles
 -- (unsigned crown, too much polishing, winding whilst
 -- screwing down crown).
-overall$versitility$of use               := 9
-overall$versitility$strap options        := 10
+overall$versatility$of use               := 9
+overall$versatility$strap options        := 10
 -- Looks great on leather, Nato, rubber; can't wait to get
 -- a mesh or Oyster!
 overall$'K-factor'                       := 8

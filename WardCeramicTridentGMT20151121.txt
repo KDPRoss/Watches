@@ -86,6 +86,6 @@ internal$movement$sound                  := 9
 -- regular, slightly 'pingy'.
 overall$concept                          := 10
 overall$execution                        := 10
-overall$versitility$of use               := 10
-overall$versitility$strap options        := 10
+overall$versatility$of use               := 10
+overall$versatility$strap options        := 10
 overall$'K-factor'                       := 10

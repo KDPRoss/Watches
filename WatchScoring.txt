@@ -113,7 +113,7 @@ internal : 30 : #283018
 overall : 40 : #aa863a
   concept : 15
   execution : 25
-  versitility : 10
+  versatility : 10
     of use : 50
       -- What contexts is it usable in? Could it be worn with
       -- sandals, hiking, diving, to dinner, with a necktie

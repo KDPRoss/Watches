@@ -109,8 +109,8 @@ internal$movement$sound                  := 4
 overall$concept                          := 10
 -- Great, inexpensive, tooly beater!
 overall$execution                        := 9
-overall$versitility$of use               := 9
-overall$versitility$strap options        := 10
+overall$versatility$of use               := 9
+overall$versatility$strap options        := 10
 -- Pretty much looks good on *anything*; love that there are
 -- the aftermarket StrapCode bracelets which fit to
 -- *incredible* tolerances.

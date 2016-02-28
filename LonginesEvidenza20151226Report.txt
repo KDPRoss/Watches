@@ -11,5 +11,5 @@ final score: 8.07
   overall: 6.95
     concept: 9.0
     execution: 8.0
-    versitility: 6.0
+    versatility: 6.0
     'K-factor': 6.0

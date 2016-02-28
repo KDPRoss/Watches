@@ -110,11 +110,11 @@ overall$concept                          := 9
 -- otherwise understanted design.
 overall$execution                        := 8
 -- I'm still slightly ragey about the date window.
-overall$versitility$of use               := 6
+overall$versatility$of use               := 6
 -- Given how many scratches mine has -- and I've not taken
 -- it on 'serious' adventures -- it seems that it's best
 -- suited ta 'safe' environments.
-overall$versitility$strap options        := 6
+overall$versatility$strap options        := 6
 -- I *do* sometimes wear it on a Nato, but I don't totally
 -- think I'm pulling it off. Love it on my Milanese; looks
 -- great on leather (although I don't wear it on the stock

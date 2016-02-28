@@ -96,9 +96,9 @@ overall$concept                          := 10
 -- Great, low-cost quartz diver that 'never' needs battery
 -- replacement.
 overall$execution                        := 9
-overall$versitility$of use               := 9
+overall$versatility$of use               := 9
 -- Great outdoors watch; perfectly-good everyday watch.
-overall$versitility$strap options        := 10
+overall$versatility$strap options        := 10
 -- Looks great on a Nato of most colours, rubber, leather, etc.
 overall$'K-factor'                       := 5
 -- Very usable, just not very exciting.
