@@ -1,0 +1,92 @@
+-- 1962 Bulova (unknown model)
+-- Width: 32,8
+-- Width (incl. crown): 35,4mm
+-- Crystal diameter: 29,7mm
+-- Lug width: 18mm
+-- Lug-to-lug width: 36,7mm
+-- Thickness: 9,2mm
+
+external$case$size                       := 10
+external$case$material                   := 10
+external$case$water resistance           := X
+external$case$lug width                  := 10
+external$case$shape                      := 8
+-- Lugs are a little weird.
+external$case$finishing                  := 9
+-- I *think* it was originally polished, but it's
+-- nicely-scratched-up!
+external$case$back$securing              := 5
+-- I *think* that the centre portion of the back 'pops' off.
+external$case$back$pattern               := 8
+-- Looks like there was some circular brushing with
+-- a polished ring listing the watch's features.
+external$crystal$front$shape             := 10
+-- Love the doming!
+external$crystal$front$material          := 9
+-- Although there are some decently-deep scratches, I like
+-- that on this watch.
+external$crystal$front$legibility        := 9
+-- Legibility is great until you get to extreme angles.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 10
+external$crown$confidence                := 7
+-- Little wobbly.
+external$crown$logo                      := 0
+external$crown$screw-down                := X
+external$bezel$material                  := X
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+-- Like the radial patterning.
+internal$dial$markings                   := 10
+-- Triangles at 12 / 3 / 6 / 9; sticks elsewhere, all
+-- applied; minutes track round the outside. The dial has
+-- a printed 'SWISS' at the extreme bottom; I don't know
+-- what precisely this meant in the '60s. I find the claim
+-- that the watch is 'waterproof' a bit dubious (What I mean
+-- is: Even when the watch was new, I doubt it had
+-- terribly-robust WR.).
+internal$dial$logo                       := 10
+-- Applied 'Bulova'.
+internal$hands$shape                     := 10
+-- Great patina on dauphine hands; love the fat-leaf-shaped
+-- counterweight on the seconds hand as well as how it
+-- curves to match the crystal toward its 'long end'.
+internal$hands$legibility                := 9
+-- Minute hand is capable of completely obscuring the hour
+-- hand.
+internal$lume$brightness                 := X
+internal$lume$usability                  := X
+internal$features$<points for each>      := X
+internal$features$overall usability      := X
+internal$movement$quality                := X
+-- Haven't seen the movement, and am unable to look up the model.
+internal$movement$decoration             := X
+internal$movement$power reserve          := X
+-- COMPLETELY WOUND SUNDAY NIGHT AT 17:50
+internal$movement$in-house               := X
+internal$movement$ease of servicing      := X
+internal$movement$sweep quality          := 6
+internal$movement$features$hacking       := 0
+internal$movement$features$hand-windable := X
+internal$movement$sound                  := 9
+-- Great-sounding movement.
+overall$concept                          := 9
+-- Very classically-styled, understated everyday watch;
+-- I like the repeated use of traingular design elements
+-- (markers, hands).
+overall$execution                        := 9
+overall$versatility$of use               := 3
+-- I'm hesitant to wear it because I assume that it's rather
+-- fragile.
+overall$versatility$strap options        := 4
+-- I think that leather is the only option that really works.
+overall$'K-factor'                       := 5
+-- Cute old watch; too bad it doesn't get much wrist time
+-- (mostly because I prefer my vintage Longines when I feel
+-- like wearing a fragily, ageing watch) ... and so, it's
+-- moved on!
