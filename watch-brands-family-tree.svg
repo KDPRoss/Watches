@@ -662,8 +662,8 @@
 </g>
 <!-- richemont&#45;&gt;vacheronConstantin -->
 <g id="edge49" class="edge"><title>richemont&#45;&gt;vacheronConstantin</title>
-<path fill="none" stroke="black" d="M-41.7601,4.20646C21.6857,3.90696 130.961,3.39113 200.129,3.06462"/>
-<polygon fill="black" stroke="black" points="200.436,-0.436771 210.452,3.01589 200.469,6.56315 200.436,-0.436771"/>
+<path fill="none" stroke="black" d="M-44.0832,10.0254C-10.6856,13.4441 34.9502,17.1664 75.2735,17.1584 117.528,17.15 164.962,13.5019 201.65,9.88109"/>
+<polygon fill="black" stroke="black" points="201.398,6.38879 211.7,8.8636 202.104,13.3532 201.398,6.38879"/>
 </g>
 <!-- vanCleef -->
 <g id="node100" class="node"><title>vanCleef</title>
@@ -757,8 +757,8 @@
 </g>
 <!-- swatch&#45;&gt;blancpain -->
 <g id="edge2" class="edge"><title>swatch&#45;&gt;blancpain</title>
-<path fill="none" stroke="black" d="M454.559,-381.165C421.672,-383.571 372.788,-387.149 334.958,-389.917"/>
-<polygon fill="black" stroke="black" points="334.322,-386.454 324.604,-390.674 334.833,-393.435 334.322,-386.454"/>
+<path fill="none" stroke="black" d="M456.173,-384.036C437.497,-386.769 414.057,-389.821 393.016,-391.442 374.374,-392.879 353.969,-393.605 335.643,-393.949"/>
+<polygon fill="black" stroke="black" points="335.357,-390.453 325.412,-394.106 335.464,-397.452 335.357,-390.453"/>
 </g>
 <!-- swatch&#45;&gt;breguet -->
 <g id="edge3" class="edge"><title>swatch&#45;&gt;breguet</title>
@@ -817,8 +817,8 @@
 </g>
 <!-- swatch&#45;&gt;rado -->
 <g id="edge14" class="edge"><title>swatch&#45;&gt;rado</title>
-<path fill="none" stroke="black" d="M508.873,-394.178C539.352,-420.905 601.431,-475.342 636.152,-505.788"/>
-<polygon fill="black" stroke="black" points="634.118,-508.66 643.944,-512.622 638.733,-503.397 634.118,-508.66"/>
+<path fill="none" stroke="black" d="M522.041,-387.94C540.883,-394.718 564.657,-405.228 582.509,-419.735 610.453,-442.443 633.42,-477.338 647.157,-501.262"/>
+<polygon fill="black" stroke="black" points="644.194,-503.135 652.13,-510.155 650.304,-499.719 644.194,-503.135"/>
 </g>
 <!-- tissot -->
 <g id="node95" class="node"><title>tissot</title>
@@ -827,8 +827,8 @@
 </g>
 <!-- swatch&#45;&gt;tissot -->
 <g id="edge15" class="edge"><title>swatch&#45;&gt;tissot</title>
-<path fill="none" stroke="black" d="M497.259,-396.4C507.291,-425.051 527.025,-481.415 538.871,-515.25"/>
-<polygon fill="black" stroke="black" points="535.667,-516.69 542.275,-524.972 542.274,-514.377 535.667,-516.69"/>
+<path fill="none" stroke="black" d="M491.3,-396.528C491.909,-408.917 493.522,-425.626 497.655,-439.812 505.736,-467.552 520.957,-496.881 532.653,-517.125"/>
+<polygon fill="black" stroke="black" points="529.645,-518.914 537.741,-525.748 535.674,-515.357 529.645,-518.914"/>
 </g>
 <!-- tutima -->
 <g id="node97" class="node"><title>tutima</title>
