@@ -1,0 +1,96 @@
+-- Seiko 5 Flieger SNK809
+-- Width: 37,2mm
+-- Width (incl. crown): 38,2
+-- Crystal diameter: 30,0mm
+-- Lug width: 18mm
+-- Lug-to-lug width: 42,1mm
+-- Thickness: 10,6mm
+
+external$case$size                       := 9
+-- Because of the smooth, angled bezel, it wears a bit
+-- small.
+external$case$material                   := 10
+external$case$water resistance           := X
+external$case$lug width                  := 10
+-- Given the smaller size of the watch, 18mm feels about
+-- right.
+external$case$shape                      := 8
+external$case$finishing                  := 6
+-- Top and sides are bead-blasted, between lugs / back are
+-- polished.
+external$case$back$securing              := 10
+external$case$back$pattern               := X
+external$crystal$front$shape             := 10
+-- Totally flat; I think it works on this watch.
+external$crystal$front$material          := 7
+external$crystal$front$legibility        := 8
+external$crystal$back$material           := 7
+external$crystal$back$appropriate        := 0
+-- The totally-undecorated movement probably should have
+-- been covered by a solid back.
+external$crown$operation                 := 8
+-- The crown is *very* small, but otherwise good.
+external$crown$confidence                := 9
+-- The crown is *surprisingly* solid.
+external$crown$logo                      := X
+external$crown$screw-down                := X
+external$bezel$material                  := X
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+-- Nice flat black with white print.
+internal$dial$pattern                    := 10
+internal$dial$markings                   := 10
+-- 5 minute marks round the outside, smaller 12-hour marks
+-- inside; triangle at 12; all printed quite well.
+internal$dial$logo                       := 9
+-- Applied 'Seiko' and '5' 'shield'; I could do without the
+-- '5' logo: Given the piece's small size, the dial is
+-- cluttered enough without it.
+internal$hands$shape                     := 9
+-- Wish that they (especially the minute hand) were slightly
+-- longer. Love the red-tipped seconds hand.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 10
+-- The lume is surprisingly bright, particularly given how
+-- little the lume spots at the hour markers are.
+internal$lume$usability                  := 5
+-- In darkness, it's impossible to see the orientation of
+-- the watch; wish they'd done a double pip at 12.
+internal$features$<points for each>      := 8
+-- Date window bevelled nicely; colour-matched day / date
+-- discs to the dial, which I like. There *is* a small gap
+-- between the discs, but, given that they're black, it's
+-- almost invisible. As I said in the SKX review, I don't
+-- like that the day / date flip-over takes *ages*.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+internal$movement$decoration             := 3
+-- Very rough finishing ... if they attempted any.
+internal$movement$power reserve          := 4
+-- Reserve claimed at 42 hours.
+internal$movement$in-house               := 10
+internal$movement$ease of servicing      := X
+-- Probably not even worth it.
+internal$movement$sweep quality          := 7
+-- Feels a little jerky
+internal$movement$features$hacking       := 0
+internal$movement$features$hand-windable := 0
+internal$movement$sound                  := 6
+-- A bit quiet, and slightly 'tinny'.
+overall$concept                          := 7
+-- Although this tends to be the size of watch that I like,
+-- it's inappropriately small for a flieger watch.
+overall$execution                        := 8
+overall$versatility$of use               := 7
+overall$versatility$strap options        := 6
+-- I never actually found a strap that I really liked on
+-- this watch. I think it might work well on leather, metal
+-- bracelets would clash with the finishing on the case;
+-- Natos work.
+overall$'K-factor'                       := 3
+-- Although it's a perfectly-good watch, it just didn't
+-- resonate much with me ... which is why I almost never
+-- wore it ... and so, it's moved on!
