@@ -1,0 +1,114 @@
+-- Dietrich OT-4
+-- Miyota 82S7, 21 jewel Japanese automatic running at 21,6k
+-- Alt/hr; hour, min, sec + 24hr indicator
+-- Width: 46,1mm
+-- Width (incl. crown): 49,3mm
+-- Bezel diameter: 44,9mm
+-- Crystal diameter: 38,5mm
+-- Dial diameter (estimated): 31mm
+-- Lug widt: ~25mm
+-- Lug-to-lug: 48mm
+-- Thickness: 14,7mm
+-- Weight (from Internet): ~125g
+
+external$case$size                       := 6
+-- I do wish that it were a bit smaller.
+external$case$material                   := 6
+-- Not a fan of coatings -- wear over the long term. Wish
+-- they'd used titanium, also weight!
+external$case$water resistance           := 10
+-- Only 50m, but this is perfectly fine for a novelty watch
+-- like this.
+external$case$lug width                  := 10
+-- Love that it can accommodate a variety of strap widths
+-- with unique design.
+external$case$shape                      := 10
+-- This is one of the main reasons to buy this watch!
+external$case$finishing                  := 10
+-- Beautiful matte finish on the case proper; slightly-shiny
+-- stripes just where it meets the bezel on the lug sides.
+external$case$back$securing              := 10
+external$case$back$pattern               := 5
+-- Wish the finishing matched the rest of the case; could
+-- have been more interesting.
+external$crystal$front$shape             := 10
+-- Utterly stunning irregularly-shaped sapphire.
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 10
+-- From extreme angles, quite a lot of unusual distortions,
+-- but practically very readable.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 8
+-- Hand winding isn't the smoothest, push / pull operation
+-- is *extremely* satisfying -- love the sound of the
+-- 'click' when pulling it out. There is a bit more
+-- 'feedback' than I'd like when adjusting the hands.
+external$crown$confidence                := 9
+-- Very-confident, almost no wobble.
+external$crown$logo                      := 10
+-- Signed with double 'D's; shape surrounding matches that
+-- of case.
+external$crown$screw-down                := X
+external$bezel$material                  := 10
+-- *Love* the carbon fibre: Beautifully done, and gives
+-- *something unique to each OT-4 in the patterning.
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 7
+-- There's a large 'X' across the dial that I could do without.
+internal$dial$markings                   := 7
+-- It's a bit busy: *Everything* is labelled -- '24
+-- H Counter', 'Small Second', 'Automatic', etc. Minute
+-- track *on the crystal* is unique and very readable since
+-- it's on a different 'layer'.
+internal$dial$logo                       := 8
+-- Applied 'Dietrich' and 'OT-4', although text is printed
+-- on the applied black bits.
+internal$hands$shape                     := 10
+-- Art-nouveau-inspired organic forms + 'snowflake' are what
+-- initially caught my interest with the OTs.
+internal$hands$legibility                := 5
+-- *Not* its strongest suit.
+internal$lume$brightness                 := 4
+-- Not the most practical.
+internal$lume$usability                  := 4
+-- The lume behind the 24-hour wheel ought to make it
+-- possible to determine orientation in the dark, but it's
+-- *not* easy to read at all.
+internal$features$<points for each>      := 10
+internal$features$overall usability      := 8
+-- 24-hour indicator isn't all that practical.
+internal$movement$quality                := 10
+internal$movement$decoration             := 10
+-- I *love* that it's just utterly plain, behind all the
+-- rather-busy 'organic' decorations, the contrast with the
+-- 'mechanicalness' of the movement.
+internal$movement$power reserve          := 3
+-- Citizen claim 40 hours.
+internal$movement$in-house               := 0
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 4
+-- Even though the 'snowflake' is small, the movement isn't
+-- terribly smooth.
+internal$movement$features$hacking       := 0
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 2
+-- Hard to hear *anything*!
+overall$concept                          := 10
+overall$execution                        := 8
+-- Wish it were a bit smaller.
+overall$versatility$of use               := 4
+-- Pretty much only usable as a 'normal-day' watch: Not for
+-- outdoorsy / water / dress use.
+overall$versatility$strap options        := 6
+-- Although it can *only* be used on one-piece straps, it
+-- can take anything below 25mm and maybe above 20: Looks
+-- great on leather, Nato, etc.
+overall$'K-factor'                       := 10
+-- I unabashedly *love* this watch. It's impractical, too
+-- big for me, and a bit over the top, but I simply don't
+-- care.
