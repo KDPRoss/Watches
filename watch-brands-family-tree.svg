@@ -5,34 +5,34 @@
  -->
 <!-- Title: my_ffd Pages: 1 -->
 <svg width="1190pt" height="1045pt"
- viewBox="0.00 0.00 1190.35 1044.85" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(480.397 564.851)">
+ viewBox="0.00 0.00 1190.20 1044.85" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(480.246 564.851)">
 <title>my_ffd</title>
-<polygon fill="white" stroke="none" points="-480.397,480 -480.397,-564.851 709.949,-564.851 709.949,480 -480.397,480"/>
+<polygon fill="white" stroke="none" points="-480.246,480 -480.246,-564.851 709.949,-564.851 709.949,480 -480.246,480"/>
 <!-- alba -->
 <g id="node1" class="node"><title>alba</title>
-<ellipse fill="none" stroke="black" cx="367.85" cy="-100.711" rx="27.8951" ry="18"/>
-<text text-anchor="middle" x="367.85" y="-97.0111" font-family="Times,serif" font-size="14.00">Alba</text>
+<ellipse fill="none" stroke="black" cx="27.8496" cy="307.289" rx="27.8951" ry="18"/>
+<text text-anchor="middle" x="27.8496" y="310.989" font-family="Times,serif" font-size="14.00">Alba</text>
 </g>
 <!-- alpina -->
 <g id="node2" class="node"><title>alpina</title>
-<ellipse fill="none" stroke="black" cx="-203.617" cy="262.36" rx="34.394" ry="18"/>
-<text text-anchor="middle" x="-203.617" y="266.06" font-family="Times,serif" font-size="14.00">Alpina</text>
+<ellipse fill="none" stroke="black" cx="370.025" cy="-68.3213" rx="34.394" ry="18"/>
+<text text-anchor="middle" x="370.025" y="-64.6213" font-family="Times,serif" font-size="14.00">Alpina</text>
 </g>
 <!-- altusUhren -->
 <g id="node3" class="node"><title>altusUhren</title>
-<ellipse fill="none" stroke="black" cx="-200.73" cy="338.966" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="-200.73" y="342.666" font-family="Times,serif" font-size="14.00">Altus Uhren</text>
+<ellipse fill="none" stroke="black" cx="-183.73" cy="253.966" rx="53.8905" ry="18"/>
+<text text-anchor="middle" x="-183.73" y="257.666" font-family="Times,serif" font-size="14.00">Altus Uhren</text>
 </g>
 <!-- glycine -->
 <g id="node42" class="node"><title>glycine</title>
-<ellipse fill="none" stroke="black" cx="-96.9718" cy="339.037" rx="38.1938" ry="18"/>
-<text text-anchor="middle" x="-96.9718" y="342.737" font-family="Times,serif" font-size="14.00">Glycine</text>
+<ellipse fill="none" stroke="black" cx="-79.9718" cy="254.037" rx="38.1938" ry="18"/>
+<text text-anchor="middle" x="-79.9718" y="257.737" font-family="Times,serif" font-size="14.00">Glycine</text>
 </g>
 <!-- altusUhren&#45;&gt;glycine -->
-<g id="edge61" class="edge"><title>altusUhren&#45;&gt;glycine</title>
-<path fill="none" stroke="black" d="M-146.723,339.003C-146.363,339.003 -146.003,339.003 -145.644,339.004"/>
-<polygon fill="black" stroke="black" points="-145.33,335.504 -135.332,339.011 -145.335,342.504 -145.33,335.504"/>
+<g id="edge62" class="edge"><title>altusUhren&#45;&gt;glycine</title>
+<path fill="none" stroke="black" d="M-129.723,254.003C-129.363,254.003 -129.003,254.003 -128.644,254.004"/>
+<polygon fill="black" stroke="black" points="-128.33,250.504 -118.332,254.011 -128.335,257.504 -128.33,250.504"/>
 </g>
 <!-- ap -->
 <g id="node4" class="node"><title>ap</title>
@@ -41,8 +41,8 @@
 </g>
 <!-- arnoldAndSon -->
 <g id="node5" class="node"><title>arnoldAndSon</title>
-<ellipse fill="none" stroke="black" cx="61.714" cy="362.793" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="61.714" y="366.493" font-family="Times,serif" font-size="14.00">Arnold &amp; Son</text>
+<ellipse fill="none" stroke="black" cx="531.505" cy="-15.6727" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="531.505" y="-11.9727" font-family="Times,serif" font-size="14.00">Arnold &amp; Son</text>
 </g>
 <!-- ball -->
 <g id="node6" class="node"><title>ball</title>
@@ -57,8 +57,8 @@
 </g>
 <!-- bellAndRoss -->
 <g id="node8" class="node"><title>bellAndRoss</title>
-<ellipse fill="none" stroke="black" cx="-370" cy="-426" rx="54.6905" ry="18"/>
-<text text-anchor="middle" x="-370" y="-422.3" font-family="Times,serif" font-size="14.00">Bell &amp; Ross</text>
+<ellipse fill="none" stroke="black" cx="293" cy="254" rx="54.6905" ry="18"/>
+<text text-anchor="middle" x="293" y="257.7" font-family="Times,serif" font-size="14.00">Bell &amp; Ross</text>
 </g>
 <!-- blancpain -->
 <g id="node9" class="node"><title>blancpain</title>
@@ -67,18 +67,18 @@
 </g>
 <!-- boucheron -->
 <g id="node10" class="node"><title>boucheron</title>
-<ellipse fill="none" stroke="black" cx="338.117" cy="116.749" rx="49.2915" ry="18"/>
-<text text-anchor="middle" x="338.117" y="120.449" font-family="Times,serif" font-size="14.00">Boucheron</text>
+<ellipse fill="none" stroke="black" cx="423.117" cy="252.749" rx="49.2915" ry="18"/>
+<text text-anchor="middle" x="423.117" y="256.449" font-family="Times,serif" font-size="14.00">Boucheron</text>
 </g>
 <!-- bovet -->
 <g id="node11" class="node"><title>bovet</title>
-<ellipse fill="none" stroke="black" cx="-444" cy="67" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="-444" y="70.7" font-family="Times,serif" font-size="14.00">Bovet</text>
+<ellipse fill="none" stroke="black" cx="-444" cy="-188" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="-444" y="-184.3" font-family="Times,serif" font-size="14.00">Bovet</text>
 </g>
 <!-- breitling -->
 <g id="node12" class="node"><title>breitling</title>
-<ellipse fill="none" stroke="black" cx="-417" cy="254" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="-417" y="257.7" font-family="Times,serif" font-size="14.00">Breitling</text>
+<ellipse fill="none" stroke="black" cx="518" cy="-205" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="518" y="-201.3" font-family="Times,serif" font-size="14.00">Breitling</text>
 </g>
 <!-- breguet -->
 <g id="node13" class="node"><title>breguet</title>
@@ -87,8 +87,8 @@
 </g>
 <!-- bremont -->
 <g id="node14" class="node"><title>bremont</title>
-<ellipse fill="none" stroke="black" cx="229" cy="458" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="229" y="461.7" font-family="Times,serif" font-size="14.00">Bremont</text>
+<ellipse fill="none" stroke="black" cx="-60" cy="-494" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="-60" y="-490.3" font-family="Times,serif" font-size="14.00">Bremont</text>
 </g>
 <!-- bulgari -->
 <g id="node15" class="node"><title>bulgari</title>
@@ -97,8 +97,8 @@
 </g>
 <!-- bulova -->
 <g id="node16" class="node"><title>bulova</title>
-<ellipse fill="none" stroke="black" cx="174.154" cy="372.94" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="174.154" y="376.64" font-family="Times,serif" font-size="14.00">Bulova</text>
+<ellipse fill="none" stroke="black" cx="512.334" cy="112.793" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="512.334" y="116.493" font-family="Times,serif" font-size="14.00">Bulova</text>
 </g>
 <!-- cartier -->
 <g id="node17" class="node"><title>cartier</title>
@@ -107,8 +107,8 @@
 </g>
 <!-- casio -->
 <g id="node18" class="node"><title>casio</title>
-<ellipse fill="none" stroke="black" cx="-445" cy="458" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="-445" y="461.7" font-family="Times,serif" font-size="14.00">Casio</text>
+<ellipse fill="none" stroke="black" cx="-445" cy="67" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="-445" y="70.7" font-family="Times,serif" font-size="14.00">Casio</text>
 </g>
 <!-- certina -->
 <g id="node19" class="node"><title>certina</title>
@@ -117,8 +117,8 @@
 </g>
 <!-- chanel -->
 <g id="node20" class="node"><title>chanel</title>
-<ellipse fill="none" stroke="black" cx="-423" cy="-290" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="-423" y="-286.3" font-family="Times,serif" font-size="14.00">Chanel</text>
+<ellipse fill="none" stroke="black" cx="206" cy="84" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="206" y="87.7" font-family="Times,serif" font-size="14.00">Chanel</text>
 </g>
 <!-- chaumet -->
 <g id="node21" class="node"><title>chaumet</title>
@@ -136,7 +136,7 @@
 <text text-anchor="middle" x="-302.751" y="267.685" font-family="Times,serif" font-size="14.00">Corum</text>
 </g>
 <!-- chinaHaidian&#45;&gt;corum -->
-<g id="edge51" class="edge"><title>chinaHaidian&#45;&gt;corum</title>
+<g id="edge52" class="edge"><title>chinaHaidian&#45;&gt;corum</title>
 <path fill="none" stroke="black" d="M-332.998,303.551C-329.451,298.911 -325.565,293.828 -321.795,288.897"/>
 <polygon fill="black" stroke="black" points="-324.495,286.665 -315.641,280.847 -318.934,290.917 -324.495,286.665"/>
 </g>
@@ -146,54 +146,65 @@
 <text text-anchor="middle" x="-370.603" y="393.311" font-family="Times,serif" font-size="14.00">Eterna</text>
 </g>
 <!-- chinaHaidian&#45;&gt;eterna -->
-<g id="edge52" class="edge"><title>chinaHaidian&#45;&gt;eterna</title>
+<g id="edge53" class="edge"><title>chinaHaidian&#45;&gt;eterna</title>
 <path fill="none" stroke="black" d="M-352.941,339.325C-355.37,346.24 -358.205,354.312 -360.883,361.939"/>
 <polygon fill="black" stroke="black" points="-357.651,363.298 -364.268,371.573 -364.256,360.978 -357.651,363.298"/>
 </g>
 <!-- chopard -->
 <g id="node23" class="node"><title>chopard</title>
-<ellipse fill="none" stroke="black" cx="347" cy="458" rx="40.8928" ry="18"/>
-<text text-anchor="middle" x="347" y="461.7" font-family="Times,serif" font-size="14.00">Chopard</text>
+<ellipse fill="none" stroke="black" cx="-435" cy="-324" rx="40.8928" ry="18"/>
+<text text-anchor="middle" x="-435" y="-320.3" font-family="Times,serif" font-size="14.00">Chopard</text>
 </g>
 <!-- chronoswiss -->
 <g id="node24" class="node"><title>chronoswiss</title>
-<ellipse fill="none" stroke="black" cx="90" cy="441" rx="55.7903" ry="18"/>
-<text text-anchor="middle" x="90" y="444.7" font-family="Times,serif" font-size="14.00">Chronoswiss</text>
+<ellipse fill="none" stroke="black" cx="-80" cy="390" rx="55.7903" ry="18"/>
+<text text-anchor="middle" x="-80" y="393.7" font-family="Times,serif" font-size="14.00">Chronoswiss</text>
 </g>
 <!-- citizen -->
 <g id="node25" class="node"><title>citizen</title>
-<ellipse fill="none" stroke="black" cx="122.967" cy="312.231" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="122.967" y="315.931" font-family="Times,serif" font-size="14.00">Citizen</text>
+<ellipse fill="none" stroke="black" cx="441.932" cy="69.8038" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="441.932" y="73.5038" font-family="Times,serif" font-size="14.00">Citizen</text>
 </g>
 <!-- citizen&#45;&gt;arnoldAndSon -->
 <g id="edge16" class="edge"><title>citizen&#45;&gt;arnoldAndSon</title>
-<path fill="none" stroke="black" d="M104.256,327.676C99.8387,331.323 95.0292,335.293 90.2858,339.208"/>
-<polygon fill="black" stroke="black" points="92.3862,342.013 82.4461,345.68 87.93,336.614 92.3862,342.013"/>
+<path fill="none" stroke="black" d="M458.78,53.7263C471.986,41.1247 490.587,23.3742 505.671,8.97985"/>
+<polygon fill="black" stroke="black" points="503.54,6.17514 513.191,1.80352 508.373,11.2394 503.54,6.17514"/>
 </g>
 <!-- citizen&#45;&gt;bulova -->
 <g id="edge17" class="edge"><title>citizen&#45;&gt;bulova</title>
-<path fill="none" stroke="black" d="M137.226,329.142C142.218,335.062 147.93,341.838 153.347,348.262"/>
-<polygon fill="black" stroke="black" points="156.202,346.219 159.972,356.12 150.85,350.731 156.202,346.219"/>
+<path fill="none" stroke="black" d="M464.984,83.8801C469.917,86.8921 475.212,90.1255 480.411,93.3002"/>
+<polygon fill="black" stroke="black" points="482.278,90.3394 488.989,98.5381 478.63,96.3136 482.278,90.3394"/>
+</g>
+<!-- frederiqueConstant -->
+<g id="node39" class="node"><title>frederiqueConstant</title>
+<ellipse fill="none" stroke="black" cx="409.67" cy="-9.68172" rx="53.066" ry="26.7407"/>
+<text text-anchor="middle" x="409.67" y="-13.4817" font-family="Times,serif" font-size="14.00">Frédérique</text>
+<text text-anchor="middle" x="409.67" y="1.51828" font-family="Times,serif" font-size="14.00">Constant</text>
+</g>
+<!-- citizen&#45;&gt;frederiqueConstant -->
+<g id="edge18" class="edge"><title>citizen&#45;&gt;frederiqueConstant</title>
+<path fill="none" stroke="black" d="M434.611,51.7673C431.526,44.1653 427.82,35.0348 424.22,26.1656"/>
+<polygon fill="black" stroke="black" points="420.907,27.311 420.39,16.7289 427.394,24.6784 420.907,27.311"/>
 </g>
 <!-- jouxPerret -->
 <g id="node55" class="node"><title>jouxPerret</title>
-<ellipse fill="none" stroke="black" cx="72.3545" cy="250.938" rx="63.0888" ry="18"/>
-<text text-anchor="middle" x="72.3545" y="254.638" font-family="Times,serif" font-size="14.00">La Joux&#45;Perret</text>
+<ellipse fill="none" stroke="black" cx="334.978" cy="100.506" rx="63.0888" ry="18"/>
+<text text-anchor="middle" x="334.978" y="104.206" font-family="Times,serif" font-size="14.00">La Joux&#45;Perret</text>
 </g>
 <!-- citizen&#45;&gt;jouxPerret -->
-<g id="edge18" class="edge"><title>citizen&#45;&gt;jouxPerret</title>
-<path fill="none" stroke="black" d="M109.137,295.482C104.28,289.601 98.708,282.852 93.3942,276.417"/>
-<polygon fill="black" stroke="black" points="90.5434,278.462 86.875,268.522 95.9411,274.005 90.5434,278.462"/>
+<g id="edge19" class="edge"><title>citizen&#45;&gt;jouxPerret</title>
+<path fill="none" stroke="black" d="M410.421,78.8495C403.812,80.7466 396.662,82.7992 389.487,84.8588"/>
+<polygon fill="black" stroke="black" points="390.314,88.2629 379.736,87.658 388.382,81.5346 390.314,88.2629"/>
 </g>
 <!-- miyota -->
 <g id="node68" class="node"><title>miyota</title>
-<ellipse fill="none" stroke="black" cx="183.81" cy="261.098" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="183.81" y="264.798" font-family="Times,serif" font-size="14.00">Miyota</text>
+<ellipse fill="none" stroke="black" cx="430.681" cy="151.637" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="430.681" y="155.337" font-family="Times,serif" font-size="14.00">Miyota</text>
 </g>
 <!-- citizen&#45;&gt;miyota -->
-<g id="edge19" class="edge"><title>citizen&#45;&gt;miyota</title>
-<path fill="none" stroke="black" d="M141.552,296.611C146.624,292.349 152.216,287.65 157.625,283.104"/>
-<polygon fill="black" stroke="black" points="155.431,280.376 165.338,276.622 159.935,285.735 155.431,280.376"/>
+<g id="edge20" class="edge"><title>citizen&#45;&gt;miyota</title>
+<path fill="none" stroke="black" d="M439.435,87.9653C438.008,98.348 436.186,111.597 434.574,123.318"/>
+<polygon fill="black" stroke="black" points="438,124.096 433.171,133.526 431.066,123.143 438,124.096"/>
 </g>
 <!-- concord -->
 <g id="node26" class="node"><title>concord</title>
@@ -202,8 +213,8 @@
 </g>
 <!-- credor -->
 <g id="node28" class="node"><title>credor</title>
-<ellipse fill="none" stroke="black" cx="527.631" cy="-59.2211" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="527.631" y="-55.5211" font-family="Times,serif" font-size="14.00">Credor</text>
+<ellipse fill="none" stroke="black" cx="187.631" cy="348.779" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="187.631" y="352.479" font-family="Times,serif" font-size="14.00">Credor</text>
 </g>
 <!-- dunhill -->
 <g id="node29" class="node"><title>dunhill</title>
@@ -236,76 +247,70 @@
 <text text-anchor="middle" x="239.785" y="-65.7749" font-family="Times,serif" font-size="14.00">Perrelet</text>
 </g>
 <!-- festina&#45;&gt;perrelet -->
-<g id="edge57" class="edge"><title>festina&#45;&gt;perrelet</title>
+<g id="edge58" class="edge"><title>festina&#45;&gt;perrelet</title>
 <path fill="none" stroke="black" d="M192.049,-70.0744C192.146,-70.0732 192.244,-70.072 192.341,-70.0708"/>
 <polygon fill="black" stroke="black" points="191.495,-73.5818 201.45,-69.9564 191.407,-66.5823 191.495,-73.5818"/>
 </g>
 <!-- fossil -->
 <g id="node35" class="node"><title>fossil</title>
-<ellipse fill="none" stroke="black" cx="337.844" cy="318.013" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="337.844" y="321.713" font-family="Times,serif" font-size="14.00">Fossil</text>
+<ellipse fill="none" stroke="black" cx="-325.156" cy="-327.987" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="-325.156" y="-324.287" font-family="Times,serif" font-size="14.00">Fossil</text>
 </g>
 <!-- relic -->
 <g id="node82" class="node"><title>relic</title>
-<ellipse fill="none" stroke="black" cx="413.725" cy="306.236" rx="29.4969" ry="18"/>
-<text text-anchor="middle" x="413.725" y="309.936" font-family="Times,serif" font-size="14.00">Relic</text>
+<ellipse fill="none" stroke="black" cx="-249.275" cy="-339.764" rx="29.4969" ry="18"/>
+<text text-anchor="middle" x="-249.275" y="-336.064" font-family="Times,serif" font-size="14.00">Relic</text>
 </g>
 <!-- fossil&#45;&gt;relic -->
-<g id="edge58" class="edge"><title>fossil&#45;&gt;relic</title>
-<path fill="none" stroke="black" d="M368.708,313.223C370.824,312.895 372.97,312.562 375.119,312.228"/>
-<polygon fill="black" stroke="black" points="374.674,308.755 385.092,310.68 375.747,315.673 374.674,308.755"/>
+<g id="edge59" class="edge"><title>fossil&#45;&gt;relic</title>
+<path fill="none" stroke="black" d="M-294.292,-332.777C-292.176,-333.105 -290.03,-333.438 -287.881,-333.772"/>
+<polygon fill="black" stroke="black" points="-288.326,-337.245 -277.908,-335.32 -287.253,-330.327 -288.326,-337.245"/>
 </g>
 <!-- skagen -->
 <g id="node91" class="node"><title>skagen</title>
-<ellipse fill="none" stroke="black" cx="310.468" cy="389.725" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="310.468" y="393.425" font-family="Times,serif" font-size="14.00">Skagen</text>
+<ellipse fill="none" stroke="black" cx="-352.532" cy="-256.275" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="-352.532" y="-252.575" font-family="Times,serif" font-size="14.00">Skagen</text>
 </g>
 <!-- fossil&#45;&gt;skagen -->
-<g id="edge59" class="edge"><title>fossil&#45;&gt;skagen</title>
-<path fill="none" stroke="black" d="M331.077,335.74C328.04,343.696 324.386,353.267 321.003,362.128"/>
-<polygon fill="black" stroke="black" points="324.184,363.611 317.347,371.705 317.644,361.114 324.184,363.611"/>
+<g id="edge60" class="edge"><title>fossil&#45;&gt;skagen</title>
+<path fill="none" stroke="black" d="M-331.923,-310.26C-334.96,-302.304 -338.614,-292.733 -341.997,-283.872"/>
+<polygon fill="black" stroke="black" points="-338.816,-282.389 -345.653,-274.295 -345.356,-284.886 -338.816,-282.389"/>
 </g>
 <!-- zodiac -->
 <g id="node103" class="node"><title>zodiac</title>
-<ellipse fill="none" stroke="black" cx="289.963" cy="258.025" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="289.963" y="261.725" font-family="Times,serif" font-size="14.00">Zodiac</text>
+<ellipse fill="none" stroke="black" cx="-373.037" cy="-387.975" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="-373.037" y="-384.275" font-family="Times,serif" font-size="14.00">Zodiac</text>
 </g>
 <!-- fossil&#45;&gt;zodiac -->
-<g id="edge60" class="edge"><title>fossil&#45;&gt;zodiac</title>
-<path fill="none" stroke="black" d="M324.507,301.303C320.017,295.678 314.904,289.272 310.013,283.145"/>
-<polygon fill="black" stroke="black" points="307.064,285.061 303.561,275.062 312.535,280.695 307.064,285.061"/>
+<g id="edge61" class="edge"><title>fossil&#45;&gt;zodiac</title>
+<path fill="none" stroke="black" d="M-338.493,-344.697C-342.983,-350.322 -348.096,-356.728 -352.987,-362.855"/>
+<polygon fill="black" stroke="black" points="-355.936,-360.939 -359.439,-370.938 -350.465,-365.305 -355.936,-360.939"/>
 </g>
 <!-- fortis -->
 <g id="node36" class="node"><title>fortis</title>
-<ellipse fill="none" stroke="black" cx="524" cy="-205" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="524" y="-201.3" font-family="Times,serif" font-size="14.00">Fortis</text>
+<ellipse fill="none" stroke="black" cx="-326" cy="458" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="-326" y="461.7" font-family="Times,serif" font-size="14.00">Fortis</text>
 </g>
 <!-- franckMuller -->
 <g id="node37" class="node"><title>franckMuller</title>
-<ellipse fill="none" stroke="black" cx="-278" cy="-341" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="-278" y="-337.3" font-family="Times,serif" font-size="14.00">Franck Muller</text>
+<ellipse fill="none" stroke="black" cx="317" cy="322" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="317" y="325.7" font-family="Times,serif" font-size="14.00">Franck Muller</text>
 </g>
 <!-- fred -->
 <g id="node38" class="node"><title>fred</title>
 <ellipse fill="none" stroke="black" cx="-110.714" cy="-238.921" rx="27" ry="18"/>
 <text text-anchor="middle" x="-110.714" y="-235.221" font-family="Times,serif" font-size="14.00">Fred</text>
 </g>
-<!-- frederiqueConstant -->
-<g id="node39" class="node"><title>frederiqueConstant</title>
-<ellipse fill="none" stroke="black" cx="-102.771" cy="262.503" rx="53.066" ry="26.7407"/>
-<text text-anchor="middle" x="-102.771" y="258.703" font-family="Times,serif" font-size="14.00">Frédérique</text>
-<text text-anchor="middle" x="-102.771" y="273.703" font-family="Times,serif" font-size="14.00">Constant</text>
-</g>
 <!-- frederiqueConstant&#45;&gt;alpina -->
 <g id="edge1" class="edge"><title>frederiqueConstant&#45;&gt;alpina</title>
-<path fill="none" stroke="black" d="M-155.852,262.428C-156.827,262.426 -157.802,262.425 -158.773,262.424"/>
-<polygon fill="black" stroke="black" points="-159.014,265.923 -169.009,262.409 -159.004,258.923 -159.014,265.923"/>
+<path fill="none" stroke="black" d="M392.396,-35.2313C390.675,-37.7776 388.927,-40.3624 387.207,-42.9072"/>
+<polygon fill="black" stroke="black" points="384.24,-41.0467 381.539,-51.2914 390.039,-44.9673 384.24,-41.0467"/>
 </g>
 <!-- girardPerregaux -->
 <g id="node40" class="node"><title>girardPerregaux</title>
-<ellipse fill="none" stroke="black" cx="527.985" cy="169.458" rx="50.41" ry="26.7407"/>
-<text text-anchor="middle" x="527.985" y="165.658" font-family="Times,serif" font-size="14.00">Girard</text>
-<text text-anchor="middle" x="527.985" y="180.658" font-family="Times,serif" font-size="14.00">Perregaux</text>
+<ellipse fill="none" stroke="black" cx="612.985" cy="305.458" rx="50.41" ry="26.7407"/>
+<text text-anchor="middle" x="612.985" y="301.658" font-family="Times,serif" font-size="14.00">Girard</text>
+<text text-anchor="middle" x="612.985" y="316.658" font-family="Times,serif" font-size="14.00">Perregaux</text>
 </g>
 <!-- glashutteOriginal -->
 <g id="node41" class="node"><title>glashutteOriginal</title>
@@ -315,8 +320,8 @@
 </g>
 <!-- gucci -->
 <g id="node43" class="node"><title>gucci</title>
-<ellipse fill="none" stroke="black" cx="391.525" cy="220.139" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="391.525" y="223.839" font-family="Times,serif" font-size="14.00">Gucci</text>
+<ellipse fill="none" stroke="black" cx="476.525" cy="356.139" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="476.525" y="359.839" font-family="Times,serif" font-size="14.00">Gucci</text>
 </g>
 <!-- hamilton -->
 <g id="node44" class="node"><title>hamilton</title>
@@ -330,8 +335,8 @@
 </g>
 <!-- hermes -->
 <g id="node46" class="node"><title>hermes</title>
-<ellipse fill="none" stroke="black" cx="-421" cy="-120" rx="38.1938" ry="18"/>
-<text text-anchor="middle" x="-421" y="-116.3" font-family="Times,serif" font-size="14.00">Hermès</text>
+<ellipse fill="none" stroke="black" cx="-251" cy="-256" rx="38.1938" ry="18"/>
+<text text-anchor="middle" x="-251" y="-252.3" font-family="Times,serif" font-size="14.00">Hermès</text>
 </g>
 <!-- hublot -->
 <g id="node47" class="node"><title>hublot</title>
@@ -340,8 +345,8 @@
 </g>
 <!-- invicta -->
 <g id="node48" class="node"><title>invicta</title>
-<ellipse fill="none" stroke="black" cx="-424" cy="152" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="-424" y="155.7" font-family="Times,serif" font-size="14.00">Invicta</text>
+<ellipse fill="none" stroke="black" cx="-424" cy="-120" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="-424" y="-116.3" font-family="Times,serif" font-size="14.00">Invicta</text>
 </g>
 <!-- iwc -->
 <g id="node49" class="node"><title>iwc</title>
@@ -365,53 +370,53 @@
 </g>
 <!-- jorgGray -->
 <g id="node53" class="node"><title>jorgGray</title>
-<ellipse fill="none" stroke="black" cx="216" cy="84" rx="46.2923" ry="18"/>
-<text text-anchor="middle" x="216" y="87.7" font-family="Times,serif" font-size="14.00">Jorg Gray</text>
+<ellipse fill="none" stroke="black" cx="267" cy="-460" rx="46.2923" ry="18"/>
+<text text-anchor="middle" x="267" y="-456.3" font-family="Times,serif" font-size="14.00">Jorg Gray</text>
 </g>
 <!-- journe -->
 <g id="node54" class="node"><title>journe</title>
-<ellipse fill="none" stroke="black" cx="508" cy="237" rx="48.9926" ry="18"/>
-<text text-anchor="middle" x="508" y="240.7" font-family="Times,serif" font-size="14.00">F.P.Journe</text>
+<ellipse fill="none" stroke="black" cx="236" cy="458" rx="48.9926" ry="18"/>
+<text text-anchor="middle" x="236" y="461.7" font-family="Times,serif" font-size="14.00">F.P.Journe</text>
 </g>
 <!-- junghans -->
 <g id="node56" class="node"><title>junghans</title>
-<ellipse fill="none" stroke="black" cx="-415" cy="-358" rx="43.5923" ry="18"/>
-<text text-anchor="middle" x="-415" y="-354.3" font-family="Times,serif" font-size="14.00">Junghans</text>
+<ellipse fill="none" stroke="black" cx="-415" cy="-1" rx="43.5923" ry="18"/>
+<text text-anchor="middle" x="-415" y="2.7" font-family="Times,serif" font-size="14.00">Junghans</text>
 </g>
 <!-- kering -->
 <g id="node57" class="node"><title>kering</title>
-<ellipse fill="none" stroke="black" cx="432.812" cy="142.776" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="432.812" y="146.476" font-family="Times,serif" font-size="14.00">Kering</text>
+<ellipse fill="none" stroke="black" cx="517.812" cy="278.776" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="517.812" y="282.476" font-family="Times,serif" font-size="14.00">Kering</text>
 </g>
 <!-- kering&#45;&gt;boucheron -->
-<g id="edge34" class="edge"><title>kering&#45;&gt;boucheron</title>
-<path fill="none" stroke="black" d="M401.805,134.254C397.258,133.004 392.481,131.691 387.673,130.369"/>
-<polygon fill="black" stroke="black" points="386.541,133.688 377.826,127.663 388.396,126.938 386.541,133.688"/>
+<g id="edge35" class="edge"><title>kering&#45;&gt;boucheron</title>
+<path fill="none" stroke="black" d="M486.805,270.254C482.258,269.004 477.481,267.691 472.673,266.369"/>
+<polygon fill="black" stroke="black" points="471.541,269.688 462.826,263.663 473.396,262.938 471.541,269.688"/>
 </g>
 <!-- kering&#45;&gt;girardPerregaux -->
-<g id="edge35" class="edge"><title>kering&#45;&gt;girardPerregaux</title>
-<path fill="none" stroke="black" d="M463.712,151.439C466.958,152.349 470.323,153.292 473.735,154.249"/>
-<polygon fill="black" stroke="black" points="474.73,150.893 483.414,156.962 472.84,157.633 474.73,150.893"/>
+<g id="edge36" class="edge"><title>kering&#45;&gt;girardPerregaux</title>
+<path fill="none" stroke="black" d="M548.712,287.439C551.958,288.349 555.323,289.292 558.735,290.249"/>
+<polygon fill="black" stroke="black" points="559.73,286.893 568.414,292.962 557.84,293.633 559.73,286.893"/>
 </g>
 <!-- kering&#45;&gt;gucci -->
-<g id="edge36" class="edge"><title>kering&#45;&gt;gucci</title>
-<path fill="none" stroke="black" d="M423.443,160.331C418.165,170.222 411.467,182.772 405.572,193.819"/>
-<polygon fill="black" stroke="black" points="408.653,195.479 400.857,202.654 402.477,192.183 408.653,195.479"/>
+<g id="edge37" class="edge"><title>kering&#45;&gt;gucci</title>
+<path fill="none" stroke="black" d="M508.443,296.331C503.165,306.222 496.467,318.772 490.572,329.819"/>
+<polygon fill="black" stroke="black" points="493.653,331.479 485.857,338.654 487.477,328.183 493.653,331.479"/>
 </g>
 <!-- ulysseNardin -->
 <g id="node98" class="node"><title>ulysseNardin</title>
-<ellipse fill="none" stroke="black" cx="475.067" cy="65.8269" rx="61.99" ry="18"/>
-<text text-anchor="middle" x="475.067" y="69.5269" font-family="Times,serif" font-size="14.00">Ulysse Nardin</text>
+<ellipse fill="none" stroke="black" cx="560.067" cy="201.827" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="560.067" y="205.527" font-family="Times,serif" font-size="14.00">Ulysse Nardin</text>
 </g>
 <!-- kering&#45;&gt;ulysseNardin -->
-<g id="edge37" class="edge"><title>kering&#45;&gt;ulysseNardin</title>
-<path fill="none" stroke="black" d="M442.4,125.315C447.673,115.712 454.33,103.59 460.256,92.7977"/>
-<polygon fill="black" stroke="black" points="457.342,90.8333 465.223,83.7527 463.478,94.2027 457.342,90.8333"/>
+<g id="edge38" class="edge"><title>kering&#45;&gt;ulysseNardin</title>
+<path fill="none" stroke="black" d="M527.4,261.315C532.673,251.712 539.33,239.59 545.256,228.798"/>
+<polygon fill="black" stroke="black" points="542.342,226.833 550.223,219.753 548.478,230.203 542.342,226.833"/>
 </g>
 <!-- kobold -->
 <g id="node58" class="node"><title>kobold</title>
-<ellipse fill="none" stroke="black" cx="462" cy="458" rx="37.0935" ry="18"/>
-<text text-anchor="middle" x="462" y="461.7" font-family="Times,serif" font-size="14.00">Kobold</text>
+<ellipse fill="none" stroke="black" cx="-422" cy="152" rx="37.0935" ry="18"/>
+<text text-anchor="middle" x="-422" y="155.7" font-family="Times,serif" font-size="14.00">Kobold</text>
 </g>
 <!-- langeUndSohne -->
 <g id="node59" class="node"><title>langeUndSohne</title>
@@ -425,8 +430,8 @@
 </g>
 <!-- lindeWerdelin -->
 <g id="node61" class="node"><title>lindeWerdelin</title>
-<ellipse fill="none" stroke="black" cx="-290" cy="-273" rx="66.8882" ry="18"/>
-<text text-anchor="middle" x="-290" y="-269.3" font-family="Times,serif" font-size="14.00">Linde Werdelin</text>
+<ellipse fill="none" stroke="black" cx="-171" cy="322" rx="66.8882" ry="18"/>
+<text text-anchor="middle" x="-171" y="325.7" font-family="Times,serif" font-size="14.00">Linde Werdelin</text>
 </g>
 <!-- longines -->
 <g id="node62" class="node"><title>longines</title>
@@ -435,8 +440,8 @@
 </g>
 <!-- lorus -->
 <g id="node63" class="node"><title>lorus</title>
-<ellipse fill="none" stroke="black" cx="470.079" cy="-0.653631" rx="31.3957" ry="18"/>
-<text text-anchor="middle" x="470.079" y="3.04637" font-family="Times,serif" font-size="14.00">Lorus</text>
+<ellipse fill="none" stroke="black" cx="130.079" cy="407.346" rx="31.3957" ry="18"/>
+<text text-anchor="middle" x="130.079" y="411.046" font-family="Times,serif" font-size="14.00">Lorus</text>
 </g>
 <!-- louisVuitton -->
 <g id="node64" class="node"><title>louisVuitton</title>
@@ -449,32 +454,32 @@
 <text text-anchor="middle" x="-22.9141" y="-334.118" font-family="Times,serif" font-size="14.00">LVMH</text>
 </g>
 <!-- lvmh&#45;&gt;bulgari -->
-<g id="edge26" class="edge"><title>lvmh&#45;&gt;bulgari</title>
+<g id="edge27" class="edge"><title>lvmh&#45;&gt;bulgari</title>
 <path fill="none" stroke="black" d="M-56.3466,-329.977C-71.7133,-326.373 -90.1388,-322.051 -106.577,-318.196"/>
 <polygon fill="black" stroke="black" points="-105.975,-314.742 -116.51,-315.866 -107.573,-321.557 -105.975,-314.742"/>
 </g>
 <!-- lvmh&#45;&gt;chaumet -->
-<g id="edge27" class="edge"><title>lvmh&#45;&gt;chaumet</title>
+<g id="edge28" class="edge"><title>lvmh&#45;&gt;chaumet</title>
 <path fill="none" stroke="black" d="M11.3526,-345.093C24.1792,-347.817 39.0033,-350.964 52.8694,-353.908"/>
 <polygon fill="black" stroke="black" points="52.2457,-357.353 62.7546,-356.007 53.6996,-350.506 52.2457,-357.353"/>
 </g>
 <!-- lvmh&#45;&gt;fred -->
-<g id="edge28" class="edge"><title>lvmh&#45;&gt;fred</title>
+<g id="edge29" class="edge"><title>lvmh&#45;&gt;fred</title>
 <path fill="none" stroke="black" d="M-37.8081,-321.042C-52.1486,-304.889 -73.9635,-280.317 -89.995,-262.259"/>
 <polygon fill="black" stroke="black" points="-87.6498,-259.629 -96.9063,-254.474 -92.8846,-264.276 -87.6498,-259.629"/>
 </g>
 <!-- lvmh&#45;&gt;hublot -->
-<g id="edge29" class="edge"><title>lvmh&#45;&gt;hublot</title>
+<g id="edge30" class="edge"><title>lvmh&#45;&gt;hublot</title>
 <path fill="none" stroke="black" d="M-27.1451,-355.719C-30.1466,-368.418 -34.2358,-385.719 -37.6721,-400.258"/>
 <polygon fill="black" stroke="black" points="-41.14,-399.714 -40.0341,-410.251 -34.3277,-401.324 -41.14,-399.714"/>
 </g>
 <!-- lvmh&#45;&gt;jeanRichard -->
-<g id="edge30" class="edge"><title>lvmh&#45;&gt;jeanRichard</title>
+<g id="edge31" class="edge"><title>lvmh&#45;&gt;jeanRichard</title>
 <path fill="none" stroke="black" d="M-7.41075,-354.647C7.07468,-370.37 28.8867,-394.047 45.4143,-411.987"/>
 <polygon fill="black" stroke="black" points="43.2411,-414.794 52.5909,-419.777 48.3895,-410.051 43.2411,-414.794"/>
 </g>
 <!-- lvmh&#45;&gt;louisVuitton -->
-<g id="edge31" class="edge"><title>lvmh&#45;&gt;louisVuitton</title>
+<g id="edge32" class="edge"><title>lvmh&#45;&gt;louisVuitton</title>
 <path fill="none" stroke="black" d="M-45.4745,-352.316C-63.7227,-364.043 -89.7032,-380.739 -110.456,-394.076"/>
 <polygon fill="black" stroke="black" points="-112.472,-391.211 -118.993,-399.562 -108.688,-397.1 -112.472,-391.211"/>
 </g>
@@ -484,7 +489,7 @@
 <text text-anchor="middle" x="98.1405" y="-255.773" font-family="Times,serif" font-size="14.00">TAG Heuer</text>
 </g>
 <!-- lvmh&#45;&gt;tag -->
-<g id="edge32" class="edge"><title>lvmh&#45;&gt;tag</title>
+<g id="edge33" class="edge"><title>lvmh&#45;&gt;tag</title>
 <path fill="none" stroke="black" d="M-0.428342,-323.266C17.8791,-311.417 43.995,-294.515 64.7459,-281.086"/>
 <polygon fill="black" stroke="black" points="66.7787,-283.939 73.2722,-275.567 62.9754,-278.062 66.7787,-283.939"/>
 </g>
@@ -494,14 +499,14 @@
 <text text-anchor="middle" x="0.428112" y="-243.509" font-family="Times,serif" font-size="14.00">Zenith</text>
 </g>
 <!-- lvmh&#45;&gt;zenith -->
-<g id="edge33" class="edge"><title>lvmh&#45;&gt;zenith</title>
+<g id="edge34" class="edge"><title>lvmh&#45;&gt;zenith</title>
 <path fill="none" stroke="black" d="M-18.3024,-319.917C-15.0095,-307.134 -10.5155,-289.69 -6.75498,-275.093"/>
 <polygon fill="black" stroke="black" points="-3.2794,-275.631 -4.17397,-265.074 -10.0581,-273.884 -3.2794,-275.631"/>
 </g>
 <!-- mbAndF -->
 <g id="node66" class="node"><title>mbAndF</title>
-<ellipse fill="none" stroke="black" cx="513" cy="322" rx="37.0935" ry="18"/>
-<text text-anchor="middle" x="513" y="325.7" font-family="Times,serif" font-size="14.00">MB&amp;F</text>
+<ellipse fill="none" stroke="black" cx="37" cy="458" rx="37.0935" ry="18"/>
+<text text-anchor="middle" x="37" y="461.7" font-family="Times,serif" font-size="14.00">MB&amp;F</text>
 </g>
 <!-- mido -->
 <g id="node67" class="node"><title>mido</title>
@@ -510,8 +515,8 @@
 </g>
 <!-- mondaine -->
 <g id="node69" class="node"><title>mondaine</title>
-<ellipse fill="none" stroke="black" cx="-412" cy="-1" rx="46.5926" ry="18"/>
-<text text-anchor="middle" x="-412" y="2.7" font-family="Times,serif" font-size="14.00">Mondaine</text>
+<ellipse fill="none" stroke="black" cx="-412" cy="254" rx="46.5926" ry="18"/>
+<text text-anchor="middle" x="-412" y="257.7" font-family="Times,serif" font-size="14.00">Mondaine</text>
 </g>
 <!-- montBlanc -->
 <g id="node70" class="node"><title>montBlanc</title>
@@ -524,17 +529,17 @@
 <text text-anchor="middle" x="-278.017" y="-481.454" font-family="Times,serif" font-size="14.00">Movado</text>
 </g>
 <!-- movado&#45;&gt;concord -->
-<g id="edge55" class="edge"><title>movado&#45;&gt;concord</title>
+<g id="edge56" class="edge"><title>movado&#45;&gt;concord</title>
 <path fill="none" stroke="black" d="M-309.368,-496.802C-309.463,-496.837 -309.558,-496.872 -309.653,-496.907"/>
 <polygon fill="black" stroke="black" points="-310.348,-493.432 -318.503,-500.196 -307.91,-499.994 -310.348,-493.432"/>
 </g>
 <!-- movado&#45;&gt;ebel -->
-<g id="edge54" class="edge"><title>movado&#45;&gt;ebel</title>
+<g id="edge55" class="edge"><title>movado&#45;&gt;ebel</title>
 <path fill="none" stroke="black" d="M-258.517,-501.009C-253.823,-504.825 -248.741,-508.958 -243.823,-512.956"/>
 <polygon fill="black" stroke="black" points="-245.766,-515.887 -235.799,-519.48 -241.35,-510.456 -245.766,-515.887"/>
 </g>
 <!-- movado&#45;&gt;esq -->
-<g id="edge56" class="edge"><title>movado&#45;&gt;esq</title>
+<g id="edge57" class="edge"><title>movado&#45;&gt;esq</title>
 <path fill="none" stroke="black" d="M-275.062,-467.197C-273.598,-458.298 -271.795,-447.347 -270.155,-437.379"/>
 <polygon fill="black" stroke="black" points="-266.695,-437.909 -268.525,-427.474 -273.602,-436.773 -266.695,-437.909"/>
 </g>
@@ -545,8 +550,8 @@
 </g>
 <!-- orient -->
 <g id="node73" class="node"><title>orient</title>
-<ellipse fill="none" stroke="black" cx="426.257" cy="-159.839" rx="33.2948" ry="18"/>
-<text text-anchor="middle" x="426.257" y="-156.139" font-family="Times,serif" font-size="14.00">Orient</text>
+<ellipse fill="none" stroke="black" cx="86.2573" cy="248.161" rx="33.2948" ry="18"/>
+<text text-anchor="middle" x="86.2573" y="251.861" font-family="Times,serif" font-size="14.00">Orient</text>
 </g>
 <!-- oris -->
 <g id="node74" class="node"><title>oris</title>
@@ -576,8 +581,8 @@
 </g>
 <!-- pulsar -->
 <g id="node80" class="node"><title>pulsar</title>
-<ellipse fill="none" stroke="black" cx="506.185" cy="-138.452" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="506.185" y="-134.752" font-family="Times,serif" font-size="14.00">Pulsar</text>
+<ellipse fill="none" stroke="black" cx="166.185" cy="269.548" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="166.185" y="273.248" font-family="Times,serif" font-size="14.00">Pulsar</text>
 </g>
 <!-- ralfLauren -->
 <g id="node81" class="node"><title>ralfLauren</title>
@@ -586,8 +591,8 @@
 </g>
 <!-- richardMille -->
 <g id="node83" class="node"><title>richardMille</title>
-<ellipse fill="none" stroke="black" cx="434" cy="390" rx="60.3893" ry="18"/>
-<text text-anchor="middle" x="434" y="393.7" font-family="Times,serif" font-size="14.00">Richard Mille</text>
+<ellipse fill="none" stroke="black" cx="451" cy="-137" rx="60.3893" ry="18"/>
+<text text-anchor="middle" x="451" y="-133.3" font-family="Times,serif" font-size="14.00">Richard Mille</text>
 </g>
 <!-- richemont -->
 <g id="node84" class="node"><title>richemont</title>
@@ -595,52 +600,52 @@
 <text text-anchor="middle" x="-91.942" y="8.14334" font-family="Times,serif" font-size="14.00">Richemont</text>
 </g>
 <!-- richemont&#45;&gt;baumeEtMercier -->
-<g id="edge38" class="edge"><title>richemont&#45;&gt;baumeEtMercier</title>
+<g id="edge39" class="edge"><title>richemont&#45;&gt;baumeEtMercier</title>
 <path fill="none" stroke="black" d="M-142.044,4.22984C-167.931,4.11952 -199.721,3.98406 -226.971,3.86794"/>
 <polygon fill="black" stroke="black" points="-227.185,7.36715 -237.17,3.82447 -227.155,0.367217 -227.185,7.36715"/>
 </g>
 <!-- richemont&#45;&gt;cartier -->
-<g id="edge39" class="edge"><title>richemont&#45;&gt;cartier</title>
+<g id="edge40" class="edge"><title>richemont&#45;&gt;cartier</title>
 <path fill="none" stroke="black" d="M-41.8709,2.37786C-19.1607,1.44104 7.49796,0.341341 29.6097,-0.570789"/>
 <polygon fill="black" stroke="black" points="29.6036,-4.07342 39.7394,-0.988649 29.8921,2.92063 29.6036,-4.07342"/>
 </g>
 <!-- richemont&#45;&gt;dunhill -->
-<g id="edge40" class="edge"><title>richemont&#45;&gt;dunhill</title>
+<g id="edge41" class="edge"><title>richemont&#45;&gt;dunhill</title>
 <path fill="none" stroke="black" d="M-84.1575,22.468C-70.3613,54.4121 -41.5549,121.112 -25.3865,158.549"/>
 <polygon fill="black" stroke="black" points="-22.1263,157.27 -21.3745,167.838 -28.5526,160.046 -22.1263,157.27"/>
 </g>
 <!-- richemont&#45;&gt;iwc -->
-<g id="edge41" class="edge"><title>richemont&#45;&gt;iwc</title>
+<g id="edge42" class="edge"><title>richemont&#45;&gt;iwc</title>
 <path fill="none" stroke="black" d="M-85.2017,-13.5152C-73.064,-45.8545 -47.4669,-114.055 -33.1673,-152.154"/>
 <polygon fill="black" stroke="black" points="-36.4129,-153.467 -29.6222,-161.599 -29.8593,-151.007 -36.4129,-153.467"/>
 </g>
 <!-- richemont&#45;&gt;jaegerLeCoultre -->
-<g id="edge42" class="edge"><title>richemont&#45;&gt;jaegerLeCoultre</title>
+<g id="edge43" class="edge"><title>richemont&#45;&gt;jaegerLeCoultre</title>
 <path fill="none" stroke="black" d="M-73.1414,-12.4726C-36.192,-45.7179 46.0062,-119.676 88.7661,-158.149"/>
 <polygon fill="black" stroke="black" points="86.4966,-160.816 96.2715,-164.902 91.1787,-155.612 86.4966,-160.816"/>
 </g>
 <!-- richemont&#45;&gt;langeUndSohne -->
-<g id="edge43" class="edge"><title>richemont&#45;&gt;langeUndSohne</title>
+<g id="edge44" class="edge"><title>richemont&#45;&gt;langeUndSohne</title>
 <path fill="none" stroke="black" d="M-98.4859,-13.4214C-109.975,-44.7853 -133.846,-109.954 -147.506,-147.244"/>
 <polygon fill="black" stroke="black" points="-150.915,-146.377 -151.069,-156.971 -144.343,-148.785 -150.915,-146.377"/>
 </g>
 <!-- richemont&#45;&gt;montBlanc -->
-<g id="edge44" class="edge"><title>richemont&#45;&gt;montBlanc</title>
+<g id="edge45" class="edge"><title>richemont&#45;&gt;montBlanc</title>
 <path fill="none" stroke="black" d="M-112.214,21.0893C-151.508,53.3561 -238.127,124.483 -283.159,161.461"/>
 <polygon fill="black" stroke="black" points="-281.113,164.31 -291.063,167.951 -285.555,158.9 -281.113,164.31"/>
 </g>
 <!-- richemont&#45;&gt;panerai -->
-<g id="edge45" class="edge"><title>richemont&#45;&gt;panerai</title>
+<g id="edge46" class="edge"><title>richemont&#45;&gt;panerai</title>
 <path fill="none" stroke="black" d="M-62.0917,19.0128C5.80794,52.1536 171.587,133.068 244.781,168.793"/>
 <polygon fill="black" stroke="black" points="246.612,165.791 254.063,173.323 243.541,172.082 246.612,165.791"/>
 </g>
 <!-- richemont&#45;&gt;piaget -->
-<g id="edge46" class="edge"><title>richemont&#45;&gt;piaget</title>
+<g id="edge47" class="edge"><title>richemont&#45;&gt;piaget</title>
 <path fill="none" stroke="black" d="M-98.0144,22.4232C-108.534,53.5718 -130.208,117.747 -142.602,154.444"/>
 <polygon fill="black" stroke="black" points="-139.319,155.661 -145.835,164.016 -145.951,153.421 -139.319,155.661"/>
 </g>
 <!-- richemont&#45;&gt;ralfLauren -->
-<g id="edge47" class="edge"><title>richemont&#45;&gt;ralfLauren</title>
+<g id="edge48" class="edge"><title>richemont&#45;&gt;ralfLauren</title>
 <path fill="none" stroke="black" d="M-71.4609,21.2133C-33.3991,52.3784 48.3502,119.315 92.2908,155.294"/>
 <polygon fill="black" stroke="black" points="94.7738,152.803 100.294,161.846 90.339,158.219 94.7738,152.803"/>
 </g>
@@ -650,7 +655,7 @@
 <text text-anchor="middle" x="-313.761" y="-175.306" font-family="Times,serif" font-size="14.00">Roger Dubuis</text>
 </g>
 <!-- richemont&#45;&gt;rogerDubuis -->
-<g id="edge48" class="edge"><title>richemont&#45;&gt;rogerDubuis</title>
+<g id="edge49" class="edge"><title>richemont&#45;&gt;rogerDubuis</title>
 <path fill="none" stroke="black" d="M-112.018,-12.1601C-151.657,-44.9421 -240.062,-118.055 -285.541,-155.667"/>
 <polygon fill="black" stroke="black" points="-287.773,-152.971 -293.249,-162.042 -283.312,-158.366 -287.773,-152.971"/>
 </g>
@@ -661,7 +666,7 @@
 <text text-anchor="middle" x="263.568" y="13.9652" font-family="Times,serif" font-size="14.00">Constantin</text>
 </g>
 <!-- richemont&#45;&gt;vacheronConstantin -->
-<g id="edge49" class="edge"><title>richemont&#45;&gt;vacheronConstantin</title>
+<g id="edge50" class="edge"><title>richemont&#45;&gt;vacheronConstantin</title>
 <path fill="none" stroke="black" d="M-44.0832,10.0254C-10.6856,13.4441 34.9502,17.1664 75.2735,17.1584 117.528,17.15 164.962,13.5019 201.65,9.88109"/>
 <polygon fill="black" stroke="black" points="201.398,6.38879 211.7,8.8636 202.104,13.3532 201.398,6.38879"/>
 </g>
@@ -671,7 +676,7 @@
 <text text-anchor="middle" x="278.904" y="-176.107" font-family="Times,serif" font-size="14.00">Van Cleef &amp; Arpels</text>
 </g>
 <!-- richemont&#45;&gt;vanCleef -->
-<g id="edge50" class="edge"><title>richemont&#45;&gt;vanCleef</title>
+<g id="edge51" class="edge"><title>richemont&#45;&gt;vanCleef</title>
 <path fill="none" stroke="black" d="M-62.5324,-10.1685C2.77209,-42.6141 160.099,-120.78 236.223,-158.601"/>
 <polygon fill="black" stroke="black" points="235.018,-161.911 245.531,-163.226 238.133,-155.642 235.018,-161.911"/>
 </g>
@@ -682,73 +687,73 @@
 </g>
 <!-- raymondWeil -->
 <g id="node86" class="node"><title>raymondWeil</title>
-<ellipse fill="none" stroke="black" cx="-240" cy="407" rx="65.7887" ry="18"/>
-<text text-anchor="middle" x="-240" y="410.7" font-family="Times,serif" font-size="14.00">Raymond Weil</text>
+<ellipse fill="none" stroke="black" cx="321" cy="390" rx="65.7887" ry="18"/>
+<text text-anchor="middle" x="321" y="393.7" font-family="Times,serif" font-size="14.00">Raymond Weil</text>
 </g>
 <!-- rolex -->
 <g id="node88" class="node"><title>rolex</title>
-<ellipse fill="none" stroke="black" cx="-104.605" cy="413.68" rx="31.6951" ry="18"/>
-<text text-anchor="middle" x="-104.605" y="417.38" font-family="Times,serif" font-size="14.00">Rolex</text>
+<ellipse fill="none" stroke="black" cx="-274.605" cy="396.68" rx="31.6951" ry="18"/>
+<text text-anchor="middle" x="-274.605" y="400.38" font-family="Times,serif" font-size="14.00">Rolex</text>
 </g>
 <!-- tudor -->
 <g id="node96" class="node"><title>tudor</title>
-<ellipse fill="none" stroke="black" cx="-33.3952" cy="424.32" rx="32.4942" ry="18"/>
-<text text-anchor="middle" x="-33.3952" y="428.02" font-family="Times,serif" font-size="14.00">Tudor</text>
+<ellipse fill="none" stroke="black" cx="-203.395" cy="407.32" rx="32.4942" ry="18"/>
+<text text-anchor="middle" x="-203.395" y="411.02" font-family="Times,serif" font-size="14.00">Tudor</text>
 </g>
 <!-- rolex&#45;&gt;tudor -->
-<g id="edge53" class="edge"><title>rolex&#45;&gt;tudor</title>
-<path fill="none" stroke="black" d="M-73.5784,418.316C-73.4894,418.329 -73.4003,418.343 -73.3112,418.356"/>
-<polygon fill="black" stroke="black" points="-74.3614,414.66 -64.9884,419.599 -75.3958,421.583 -74.3614,414.66"/>
+<g id="edge54" class="edge"><title>rolex&#45;&gt;tudor</title>
+<path fill="none" stroke="black" d="M-243.578,401.316C-243.489,401.329 -243.4,401.343 -243.311,401.356"/>
+<polygon fill="black" stroke="black" points="-244.361,397.66 -234.988,402.599 -245.396,404.583 -244.361,397.66"/>
 </g>
 <!-- seagull -->
 <g id="node89" class="node"><title>seagull</title>
-<ellipse fill="none" stroke="black" cx="235" cy="-460" rx="64.9885" ry="18"/>
-<text text-anchor="middle" x="235" y="-456.3" font-family="Times,serif" font-size="14.00">Tianjin Seagull</text>
+<ellipse fill="none" stroke="black" cx="490" cy="424" rx="64.9885" ry="18"/>
+<text text-anchor="middle" x="490" y="427.7" font-family="Times,serif" font-size="14.00">Tianjin Seagull</text>
 </g>
 <!-- seiko -->
 <g id="node90" class="node"><title>seiko</title>
-<ellipse fill="none" stroke="black" cx="447.73" cy="-80.1741" rx="30.5947" ry="18"/>
-<text text-anchor="middle" x="447.73" y="-76.4741" font-family="Times,serif" font-size="14.00">Seiko</text>
+<ellipse fill="none" stroke="black" cx="107.73" cy="327.826" rx="30.5947" ry="18"/>
+<text text-anchor="middle" x="107.73" y="331.526" font-family="Times,serif" font-size="14.00">Seiko</text>
 </g>
 <!-- seiko&#45;&gt;alba -->
-<g id="edge20" class="edge"><title>seiko&#45;&gt;alba</title>
-<path fill="none" stroke="black" d="M419.342,-87.4725C414.314,-88.7652 409.019,-90.1266 403.814,-91.4647"/>
-<polygon fill="black" stroke="black" points="402.826,-88.1049 394.012,-93.9847 404.569,-94.8844 402.826,-88.1049"/>
+<g id="edge21" class="edge"><title>seiko&#45;&gt;alba</title>
+<path fill="none" stroke="black" d="M79.3423,320.527C74.3142,319.235 69.0189,317.873 63.8145,316.535"/>
+<polygon fill="black" stroke="black" points="62.8259,319.895 54.0124,314.015 64.569,313.116 62.8259,319.895"/>
 </g>
 <!-- seiko&#45;&gt;credor -->
-<g id="edge21" class="edge"><title>seiko&#45;&gt;credor</title>
-<path fill="none" stroke="black" d="M475.675,-72.8458C479.214,-71.9179 482.891,-70.9537 486.58,-69.9862"/>
-<polygon fill="black" stroke="black" points="487.503,-73.3625 496.288,-67.4403 485.728,-66.5914 487.503,-73.3625"/>
+<g id="edge22" class="edge"><title>seiko&#45;&gt;credor</title>
+<path fill="none" stroke="black" d="M135.675,335.154C139.214,336.082 142.891,337.046 146.58,338.014"/>
+<polygon fill="black" stroke="black" points="147.503,334.638 156.288,340.56 145.728,341.409 147.503,334.638"/>
 </g>
 <!-- seiko&#45;&gt;lorus -->
-<g id="edge22" class="edge"><title>seiko&#45;&gt;lorus</title>
-<path fill="none" stroke="black" d="M452.801,-62.1297C455.602,-52.1658 459.139,-39.5774 462.283,-28.3906"/>
-<polygon fill="black" stroke="black" points="465.691,-29.2007 465.027,-18.6266 458.952,-27.3067 465.691,-29.2007"/>
+<g id="edge23" class="edge"><title>seiko&#45;&gt;lorus</title>
+<path fill="none" stroke="black" d="M112.801,345.87C115.602,355.834 119.139,368.423 122.283,379.609"/>
+<polygon fill="black" stroke="black" points="125.691,378.799 125.027,389.373 118.952,380.693 125.691,378.799"/>
 </g>
 <!-- seiko&#45;&gt;orient -->
-<g id="edge23" class="edge"><title>seiko&#45;&gt;orient</title>
-<path fill="none" stroke="black" d="M442.858,-98.2512C440.167,-108.233 436.768,-120.844 433.747,-132.051"/>
-<polygon fill="black" stroke="black" points="430.334,-131.267 431.111,-141.833 437.093,-133.089 430.334,-131.267"/>
+<g id="edge24" class="edge"><title>seiko&#45;&gt;orient</title>
+<path fill="none" stroke="black" d="M102.858,309.749C100.167,299.767 96.7678,287.156 93.7471,275.949"/>
+<polygon fill="black" stroke="black" points="90.3338,276.733 91.1106,266.167 97.0925,274.911 90.3338,276.733"/>
 </g>
 <!-- seiko&#45;&gt;pulsar -->
-<g id="edge24" class="edge"><title>seiko&#45;&gt;pulsar</title>
-<path fill="none" stroke="black" d="M463.395,-95.7914C469.326,-101.704 476.214,-108.572 482.708,-115.046"/>
-<polygon fill="black" stroke="black" points="480.516,-117.803 490.069,-122.385 485.458,-112.846 480.516,-117.803"/>
+<g id="edge25" class="edge"><title>seiko&#45;&gt;pulsar</title>
+<path fill="none" stroke="black" d="M123.395,312.209C129.326,306.296 136.214,299.428 142.708,292.954"/>
+<polygon fill="black" stroke="black" points="140.516,290.197 150.069,285.615 145.458,295.154 140.516,290.197"/>
 </g>
 <!-- wired -->
 <g id="node101" class="node"><title>wired</title>
-<ellipse fill="none" stroke="black" cx="390.269" cy="-20.9497" rx="33.2948" ry="18"/>
-<text text-anchor="middle" x="390.269" y="-17.2497" font-family="Times,serif" font-size="14.00">Wired</text>
+<ellipse fill="none" stroke="black" cx="50.2686" cy="387.05" rx="33.2948" ry="18"/>
+<text text-anchor="middle" x="50.2686" y="390.75" font-family="Times,serif" font-size="14.00">Wired</text>
 </g>
 <!-- seiko&#45;&gt;wired -->
-<g id="edge25" class="edge"><title>seiko&#45;&gt;wired</title>
-<path fill="none" stroke="black" d="M432.331,-64.3031C426.501,-58.2941 419.73,-51.3151 413.347,-44.7357"/>
-<polygon fill="black" stroke="black" points="415.586,-42.0174 406.11,-37.2775 410.562,-46.8919 415.586,-42.0174"/>
+<g id="edge26" class="edge"><title>seiko&#45;&gt;wired</title>
+<path fill="none" stroke="black" d="M92.3315,343.697C86.5013,349.706 79.7301,356.685 73.3465,363.264"/>
+<polygon fill="black" stroke="black" points="75.5858,365.983 66.1104,370.722 70.5619,361.108 75.5858,365.983"/>
 </g>
 <!-- steinhart -->
 <g id="node92" class="node"><title>steinhart</title>
-<ellipse fill="none" stroke="black" cx="-60" cy="-494" rx="42.4939" ry="18"/>
-<text text-anchor="middle" x="-60" y="-490.3" font-family="Times,serif" font-size="14.00">Steinhart</text>
+<ellipse fill="none" stroke="black" cx="-434" cy="458" rx="42.4939" ry="18"/>
+<text text-anchor="middle" x="-434" y="461.7" font-family="Times,serif" font-size="14.00">Steinhart</text>
 </g>
 <!-- swatch -->
 <g id="node93" class="node"><title>swatch</title>
@@ -832,8 +837,8 @@
 </g>
 <!-- tutima -->
 <g id="node97" class="node"><title>tutima</title>
-<ellipse fill="none" stroke="black" cx="-440" cy="-222" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="-440" y="-218.3" font-family="Times,serif" font-size="14.00">Tutima</text>
+<ellipse fill="none" stroke="black" cx="359" cy="458" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="359" y="461.7" font-family="Times,serif" font-size="14.00">Tutima</text>
 </g>
 </g>
 </svg>
