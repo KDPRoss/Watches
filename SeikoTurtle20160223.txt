@@ -7,6 +7,7 @@
 -- Lug width: 22mm
 -- Lug-to-lug: 47,7mm
 -- Thickness: 13,2mm
+-- Weight (head only): 91g
 
 external$case$size                       := 7
 -- It wears somewhat smaller than the numbers would suggest,

@@ -5,6 +5,7 @@
 -- Lug width: 18mm
 -- Lug-to-lug: 45,2mm
 -- Thickness (centre of crystal to centre of back): 10,6mm
+-- Weight (head only): 47g
 
 external$case$size                       := 10
 -- Because of the tonneau shape, it wears smaller.

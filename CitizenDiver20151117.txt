@@ -7,6 +7,7 @@
 -- Lug width: 20mm
 -- Lug-to-lug: 45,6mm
 -- Thickness: 12,1mm
+-- Weight (head only): 65g
 
 external$case$size                       := 10
 -- Although it's a bit bigger than I normally prefer, the
