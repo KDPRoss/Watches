@@ -1,0 +1,113 @@
+-- Tudor 'Glamour' Day-Date 56000
+-- ETA 2834-2, 25 jewel automatic running at 28,8k Alt/hr;
+-- hacking; hand winding; hour, min., sec + day-date
+-- Width: 38,8mm
+-- Width (incl. crown): 42,1mm
+-- Crystal diameter: 31,5mm
+-- Dial diameter (estimated): 31,5mm
+-- Crown diameter: 6,6mm
+-- Lug width: 21mm
+-- Lug-to-lug: 46,6mm
+-- Thickness: 10,8mm
+-- Weight (head only): 66g
+
+external$case$size                       := 9
+-- I wouldn't have minded 1mm smaller
+external$case$material                   := 10
+-- Not sure which steel alloy.
+external$case$water resistance           := 10
+-- 100m is perfectly excessive for a dress watch.
+external$case$lug width                  := 4
+-- 20 or 22 would have been *so* much nicer.
+external$case$shape                      := 9
+-- Top surface protrudes slightly which I don't think looks
+-- as clean as it would have if flush.
+external$case$finishing                  := 9
+-- All-polished: Shows fingerprints constantly.
+external$case$back$securing              := 10
+-- Coin-edge screw-down back.
+external$case$back$pattern               := 10
+-- Very simple 'Tudor--Geneve--Suisse' with Tudor shields
+-- between each pair of words on a brushed background.
+external$crystal$front$shape             := 10
+-- Slightly raised with bevelled edges.
+external$crystal$front$material          := 10
+-- Sapphire.
+external$crystal$front$legibility        := 8
+-- Constantly *covered* in fingerprints!
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 10
+external$crown$confidence                := 10
+external$crown$logo                      := 10
+-- Black Tudor shield.
+external$crown$screw-down                := 10
+external$bezel$material                  := X
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+-- *Flat* black.
+internal$dial$pattern                    := 10
+-- No patterning of any kind; I like it here.
+internal$dial$markings                   := 10
+-- Applied sticks at hours except 12; printing is nicely
+-- done in slightly-raised beautiful white paint.
+internal$dial$logo                       := 10
+-- Applied shield; printed name.
+internal$hands$shape                     := 9
+-- The white-dial version has blued-steel feuille hands; the
+-- faceted straight hands were one of the reasons that
+-- I preferred the black-dial version: Although I *love*
+-- feuille hands, I don't like them on *this* watch. I'm
+-- still not sure whether I like the loop counterweight on
+-- the baton second hand.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 2
+-- Lume is nearly useless.
+internal$lume$usability                  := 0
+-- Besides that it's not bright and it doesn't last long,
+-- only the hour and minute hands are lumed, so it's
+-- impossible to read without knowing the watch's
+-- orientation.
+internal$features$<points for each>      := 10
+-- Day-date; love the curvy bevelling on the day and date
+-- windows; extremely readable. Two *tiny* criticisms: The
+-- text is in different-sized fonts depending on the day of
+-- the week (e.g., 'Wednesday' is smaller than 'Sunday') and
+-- there's a slightly-strange behaviour whereby the date
+-- window is partially covered during *part* of the day
+-- change. Day change is nearly instantaneous. I can't
+-- decide whether I'd prefer colour-matched day / date
+-- discs: That was initially a criticism, but I've come to
+-- like them in white; they have subtle texturing, as well,
+-- which I like.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+internal$movement$decoration             := 9
+-- Only seen photos, but gold Tudor shield / 'Tudor' text on
+-- nicely finished rotor; perlage pretty much everywhere
+-- else.
+internal$movement$power reserve          := 3
+-- Claimed at 38 hours.
+internal$movement$in-house               := 0
+-- ETA.
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 9
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 10
+-- Very confident, very mechanical, slightly 'pingy'.
+overall$concept                          := 10
+-- Modern, dressy day-date.
+overall$execution                        := 9
+-- A bit too big; could have done without the lume
+-- 'attempt'.
+overall$versatility$of use               := 8
+overall$versatility$strap options        := 6
+-- Hard to find straps that fit it; although I wear it with
+-- silicone straps and Natos, this doesn't look the best.
+-- Leather's the best option, but the odd size makes it
+-- difficult to find prêt-à-porter straps.
+overall$'K-factor'                       := 8.5

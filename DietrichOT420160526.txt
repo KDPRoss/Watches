@@ -6,7 +6,7 @@
 -- Bezel diameter: 44,9mm
 -- Crystal diameter: 38,5mm
 -- Dial diameter (estimated): 31mm
--- Lug widt: ~25mm
+-- Lug width: ~25mm
 -- Lug-to-lug: 48mm
 -- Thickness: 14,7mm
 -- Weight (from Internet): ~125g

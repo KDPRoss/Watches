@@ -1,0 +1,16 @@
+final score: 8.79
+  external: 9.37
+    case: 8.9
+    crystal: 9.2
+    crown: 10.0
+  internal: 8.32
+    dial: 10.0
+    hands: 9.4
+    lume: 1.0
+    features: 10.0
+    movement: 7.71
+  overall: 8.7
+    concept: 10.0
+    execution: 9.0
+    versatility: 7.0
+    'K-factor': 8.5
