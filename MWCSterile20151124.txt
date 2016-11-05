@@ -1,0 +1,87 @@
+-- MWC Sterile Diver (SUB/SS/ST/A)
+-- Width: 40,5mm
+-- Width (incl. crown): 45,3mm
+-- Bezel diameter: 42,3mm
+-- Lug width: 20mm
+-- Lug-to-lug: 48,8mm
+-- Thickness: 13,1mm
+-- Weight (head only): 77g
+
+external$case$size                       := 8
+-- Just a bit big for me.
+external$case$material                   := 10
+external$case$water resistance           := 10
+external$case$lug width                  := 10
+external$case$shape                      := 9
+-- Wish there weren't screws for the fixed lugs.
+external$case$finishing                  := 10
+-- Brushed everywhere; screams 'tooly'.
+external$case$back$securing              := 10
+external$case$back$pattern               := 10
+-- Only text, detailing relevant info.; perfect on this sort
+-- of watch.
+external$crystal$front$shape             := 10
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 8
+-- Bad distortion at certain angles.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 8
+-- Winding mechanism is still engaged when screwing down on
+-- threads.
+external$crown$confidence                := 8
+external$crown$logo                      := 10
+-- No logo is exactly what I want on this sort of watch.
+external$crown$screw-down                := 10
+external$bezel$material                  := 10
+-- Like the flat-black aluminium.
+external$bezel$markings                  := 10
+external$bezel$operation                 := 7
+-- Quite a bit of play, sounds extremely 'tinny'.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+-- Plain, flat black is fitting.
+internal$dial$pattern                    := 10
+internal$dial$markings                   := 10
+-- Like the slightly-oversized applied markers, likewise for
+-- the broadarrow.
+internal$dial$logo                       := 10
+-- Less is more.
+internal$hands$shape                     := 10
+-- Classic Mercedes hands; easy to read.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 10
+-- Quite readable, possibly, though, this is just a function
+-- of how big the markers are.
+internal$lume$usability                  := 7
+-- Lume on pearl fades *very* quickly.
+internal$features$<points for each>      := 9
+-- Not totally fussed about the date window.
+internal$features$overall usability      := 10
+-- Given that there's no magnification, date is very
+-- readable.
+internal$movement$quality                := 8
+-- They are a bit deceptive in not giving information about
+-- the movements very readily.
+internal$movement$decoration             := X
+-- I've not seen the movement and can't find photo's,
+-- although I assume it's undecorated.
+internal$movement$power reserve          := 3
+-- Reserve claimed at 41 hours.
+internal$movement$in-house               := 0
+internal$movement$ease of servicing      := X
+-- Don't know!
+internal$movement$sweep quality          := 8
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 4
+-- Can hardly hear the movement.
+overall$concept                          := 10
+overall$execution                        := 10
+-- Unpretentious, tooly diver.
+overall$versatility$of use               := 10
+overall$versatility$strap options        := 5
+-- Because of the fixed lugs, many options unavailable --
+-- Nato only.
+overall$'K-factor'                       := 6
