@@ -1,0 +1,81 @@
+-- Rolex Explorer 2 16570
+-- In-house Cal. 3185, 31 jewel Swiss automatic running at
+--   28,8k Alt/hr; hour, min, sec, GMT, date
+-- Width: 39,1mm
+-- Width (incl. crown): 42,3mm
+-- Bezel diameter: 39,1mm
+-- Crystal diameter: 31,3mm
+-- Dial diameter (estimated): 27,8mm
+-- Lug width: 20mm
+-- Lug-to-lug: 47,7mm
+-- Thickness: 12,9mm
+-- Weight (head only): 70g
+
+external$case$size                       := 10
+external$case$material                   := 10
+external$case$water resistance           := 10
+external$case$lug width                  := 10
+external$case$shape                      := 10
+external$case$finishing                  := 8
+-- Would have preferred a bit more brushing, a bit less
+-- polishing.
+external$case$back$securing              := 10
+external$case$back$pattern               := 5
+-- Would have liked *some* information on the back.
+external$crystal$front$shape             := 10
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 10
+external$crystal$back$legibility         := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 10
+external$crown$confidence                := 10
+external$crown$logo                      := 10
+external$crown$screw-down                := 10
+external$bezel$material                  := 10
+external$bezel$markings                  := 10
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+-- Love how it's just *perfectly* flat / white.
+internal$dial$markings                   := 10
+internal$dial$logo                       := 7
+-- Wish the logo were applied like on the other Rollies,
+-- although it's not clear what material it would have been
+-- made of.
+internal$hands$shape                     := 10
+-- Love the red 'stalk' of the GMT hand. Second hand tapers
+-- to needle point.
+internal$hands$legibility                := 10
+-- Like that it's possible to read them, even when all
+-- stacked atop one another.
+internal$lume$brightness                 := 7
+-- Lume is never as bright nor last as long as I'd like.
+internal$lume$usability                  := 10
+-- Nearly as easy to read in the dark as in the light.
+internal$features$<points for each>      := 8
+-- Date very readable through cyclops. Great GMT function.
+-- Wish that it had a quick-set date.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+internal$movement$decoration             := 10
+-- Decoration has a bit of perlage, mostly 'tooly', though,
+-- which is just what I'd want.
+internal$movement$power reserve          := 4
+-- Power reserve claimed to be 48 hours.
+internal$movement$in-house               := 10
+internal$movement$ease of servicing      := 7
+internal$movement$sweep quality          := 9
+-- Sweep quite good, but not *completely* smooth.
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 10
+-- High-pitched, quiet, 'confident'.
+overall$concept                          := 7
+ -- Not clear that 24-hour time necessary for spelunkers, or
+ -- that any Ex2 has gone caving.
+overall$execution                        := 10
+overall$versatility$of use               := 10
+overall$versatility$strap options        := 10
+overall$'K-factor'                       := 10
