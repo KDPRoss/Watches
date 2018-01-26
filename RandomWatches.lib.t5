@@ -1,0 +1,46 @@
+PRAGMA Tanager5
+PRAGMA Library Watches.Random
+
+typedef Watch = { name    : String,
+                  bezel   : Bool,
+                  lume    : Bool,
+                  fragile : Bool
+                }
+
+watchFile : String
+...       = "WatchCharacteristics.csv"
+
+watches : [ Watch ]
+...     = watchFile |> readFile >> filter (comment >> not) >> map parseLine
+          where parseLine s = case splitRegexp "[ ]*,[ ]*" s
+                                [ n, b, l, f ] -> module
+                                                    name    = replaceRegexp "([a-z])([A-Z])" "$1 $2" n
+                                                    bezel   = parseBool b
+                                                    lume    = parseBool l
+                                                    fragile = parseBool f
+                                                  where parseBool "T" = True
+                                                        ...       "F" = False
+                                                        ...       _   = failHard <| "Bad entry for `" # n # "`."
+                                _              -> failHard <| "Invalid line `" # s # "`."
+                comment     = matchesRegexp "^[ ]*-- " or^ matchesRegexp "^[ ]*$"
+
+choose : () -> [ String ]
+... _  = header |> emit
+         header |> replaceRegexp "." "-" >> emit
+         emit <| "  morning: " # coffee.name
+         emit <| "  day: " # arb.name
+         if arb.fragile
+            then emit <| "  day (alt.): " # sturdy.name
+         emit <| "  night: " # night.name
+         !! out |> reverse
+         where coffee     = watches |> filter hasBezel >> oneOf
+               arb        = watches |> filter (coffee =/= _) >> oneOf
+               sturdy     = watches |> filter (notFragile and^ (coffee =/= _)) >> oneOf
+               night      = watches |> filter (hasLume and^ (arb =/= _) and^ (sturdy =/= _)) >> oneOf
+               hasBezel   = \ (w : Watch) -> w.bezel
+               hasLume    = \ (w : Watch) -> w.lume
+               notFragile = \ (w : Watch) -> not w.fragile
+               oneOf      = shuffle >> head
+               header     = "Watch Selections"
+               out        = ref []
+               emit s     = out := s :: !! out
