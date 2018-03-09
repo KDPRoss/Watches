@@ -1,0 +1,122 @@
+-- Vapaus Veli 2050 1st Edition
+-- Sellita SW215-1 Elaboré, 10 jewel Swiss hand-wound
+--   running at 28,8k Alt/hr; hour, min, sec, date
+-- Width: 38,0mm
+-- Width (incl. crown): 40,5mm
+-- Crystal diameter: 34,8mm
+-- Dial diameter (estimated): 34,0mm
+-- Lug width: 20mm
+-- Lug-to-lug: 44,2mm
+-- Thickness: 10,2mm
+-- Weight (head only): 37,5g
+
+external$case$size                       := 9
+external$case$material                   := 10
+-- It's 316L.
+external$case$water resistance           := X
+-- I couldn't find any water-resist rating; fine for a dress
+-- watch.
+external$case$lug width                  := 10
+external$case$shape                      := 9
+-- The case largely 'disappears': The highly-domed crystal
+-- is the 'star of the show'.
+external$case$finishing                  := 8
+-- All high-polish.
+external$case$back$securing              := 6
+-- It's a snap-back case.
+external$case$back$pattern               := 10
+-- I really like the pair of winged Velimen.
+external$crystal$front$shape             := 10
+-- The doming on the crystal is what makes the watch work
+-- for me: It recalls the high-dome acrylic crystals on
+-- vintage watches.
+external$crystal$front$material          := 10
+-- Sapphire.
+external$crystal$front$legibility        := 9
+-- The crystal's doming distorts the hands far beyond
+-- legibility from extreme angles; this has never been
+-- a problem in practice.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 6
+-- The crown provides a bit too much resistance when
+-- winding and moving hands; it takes a *lot* of crown
+-- rotation to advance the date.
+external$crown$confidence                := 10
+-- No detectable wobble.
+external$crown$logo                      := 10
+-- The double-'V' logo matches the 'Vapaus' text on the
+-- dial.
+external$crown$screw-down                := X
+external$bezel$material                  := X
+external$bezel$markings                  := X
+external$bezel$operation                 := X
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+-- The blue sunburst appears wildly-different colours: In
+-- low light, it's nearly black; in bright daylight,
+-- brilliant blue.
+internal$dial$pattern                    := 10
+-- Not sure how to describe the pattern; under the loupe, it
+-- has some sort of subtle patterning; I assume that this is
+-- some sort of structure involved in the sunburst? The dial
+-- appears to be slightly convex, although I cannot tell if
+-- this is an illusion from the crystal.
+internal$dial$markings                   := 9
+-- All-printed markings; minor imperfections in printing
+-- visible under magnification.
+internal$dial$logo                       := 10
+-- I generally prefer applied logos, but I think that that
+-- wouldn't work on the Veli.
+internal$hands$shape                     := 7
+-- I actually find the alpha hands on some of the other
+-- model (the 1950) to be *prettier*, but I bought the 2050
+-- specifically for the uniqueness of the syringe hands. I
+-- wish they were slightly-bevelled on the edges. A minor
+-- imperfection is visible on the hour hand with the naked
+-- eye; very visible under magnification.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 2
+-- Lume is atrocious: I would have been happier with *no*
+-- lume: There's not much of it, and it's not very legible.
+internal$lume$usability                  := 2
+internal$features$<points for each>      := 10
+-- I *love* 6 o'clock dates, and the touch of
+-- colour-matching the date wheel to the dial is very much
+-- appreciated (n.b., because the dial is sunburst, the date
+-- wheel is not *exactly* the same colour, but this doesn't
+-- bother me at all.)
+internal$features$overall usability      := 9
+-- Wish the date were a bit larger.
+internal$movement$quality                := 10
+internal$movement$decoration             := X
+-- I've not seen photo's of the movement specifically in the
+-- Veli.
+internal$movement$power reserve          := 4
+-- Claimed reserve of 42 hours.
+internal$movement$in-house               := 0
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 8
+internal$movement$features$hacking       := 0
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 10
+-- Movement sounds very nice; it somehow generates a sound
+-- that I'd almost describe as a 'hum' in addition to the
+-- regular ticking, which is 'clicky' but not at all
+-- 'tinny'.
+overall$concept                          := 10
+-- A classic watch with updated materials; I *love* that
+-- they did a hand-wound movement.
+overall$execution                        := 7
+-- Minor problem with the hour hand, lume that isn't
+-- useful; otherwise a handsome watch with lovely dial
+-- (and colour-matched date wheel!) and the doming on the
+-- sapphire pulls things together for me.
+overall$versatility$of use               := 7
+-- Not suited for rough activities but perfectly nice for
+-- daytime use.
+overall$versatility$strap options        := 8
+-- I think that it's most at-home on leather or a Milanese,
+-- but I'd wear it on a Nato.
+overall$'K-factor'                       := 8
