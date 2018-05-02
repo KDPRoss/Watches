@@ -98,7 +98,7 @@ internal$movement$power reserve          := 4
 internal$movement$in-house               := 0
 internal$movement$ease of servicing      := 10
 internal$movement$sweep quality          := 8
-internal$movement$features$hacking       := 0
+internal$movement$features$hacking       := 10
 internal$movement$features$hand-windable := 10
 internal$movement$sound                  := 10
 -- Movement sounds very nice; it somehow generates a sound

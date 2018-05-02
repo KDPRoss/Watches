@@ -1,14 +1,14 @@
-final score: 8.28
+final score: 8.33
   external: 9.13
     case: 9.11
     crystal: 9.6
     crown: 8.67
-  internal: 7.8
+  internal: 7.97
     dial: 9.6
     hands: 8.2
     lume: 2.0
     features: 9.5
-    movement: 6.92
+    movement: 7.48
   overall: 8.0
     concept: 10.0
     execution: 7.0
