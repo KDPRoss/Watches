@@ -1,5 +1,5 @@
 -- Vapaus Veli 2050 1st Edition
--- Sellita SW215-1 Elaboré, 10 jewel Swiss hand-wound
+-- Sellita SW215-1 Elaboré, 19 jewel Swiss hand-wound
 --   running at 28,8k Alt/hr; hour, min, sec, date
 -- Width: 38,0mm
 -- Width (incl. crown): 40,5mm
