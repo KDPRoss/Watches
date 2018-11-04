@@ -1,0 +1,90 @@
+-- Omega Midsized Seamaster Professional 300 2551.80.00
+-- Omega Calibre 1120 = ETA 2892-A2
+-- Width: 36,4mm
+-- Width (incl. crown): 40,9mm
+-- Bezel diameter: 36,1mm
+-- Crystal diameter:26,2mm
+-- Lug width: 18mm
+-- Lug-to-lug: 42,9mm
+-- Thickness: 11,4mm
+-- crown: 5,4mm
+-- Weight (head only): 56,4g
+
+
+external$case$size                       := 9
+-- Wish it were 38mm.
+external$case$material                   := 10
+-- Couldn't confirm from Omega directly; appears to be 316L.
+external$case$water resistance           := 10
+external$case$lug width                  := 10
+-- 20mm is more convenient, but with a watch this small,
+-- 18mm is more fitting.
+external$case$shape                      := 10
+external$case$finishing                  := 8
+-- Mixture of brushing / polished; would have preferred
+-- all-brushed: Tooly.
+external$case$back$securing              := 10
+-- Screw-on back.
+external$case$back$pattern               := 10
+-- Engraved waves! Seahorse! Love it!
+external$crystal$front$shape             := 10
+-- Very-subtly domed.
+external$crystal$front$material          := 10
+external$crystal$front$legibility        := 10
+-- Distortion at some angles; very readable.
+external$crystal$back$material           := X
+external$crystal$back$appropriate        := X
+external$crown$operation                 := 6
+-- It's just too small!
+external$crown$confidence                := 10
+external$crown$logo                      := 10
+-- Consistent Ω on dial, crown, back.
+external$crown$screw-down                := 10
+external$bezel$material                  := 10
+-- It's an old watch; aluminium scratches, but that's part
+-- of the charm.
+external$bezel$markings                  := 8
+-- Wish that they'd not done the 15-minutes-marks-only
+-- thing.
+external$bezel$operation                 := 4
+-- My example is *old* and has clearly been treated roughly;
+-- the bezel on other Seamasters is vastly nicer.
+external$pushers / buttons$operation     := X
+external$pushers / buttons$placement     := X
+internal$dial$colours                    := 10
+internal$dial$pattern                    := 10
+-- WAVE DIAL!!!!!
+internal$dial$markings                   := 6
+-- Printed markings look a bit cheap. All quite usable,
+-- however.
+internal$dial$logo                       := 4
+-- Just printed.
+internal$hands$shape                     := 10
+-- Just iconic.
+internal$hands$legibility                := 10
+internal$lume$brightness                 := 8
+-- Could have used more lume; quite good; surprisingly
+-- little patina.
+internal$lume$usability                  := 10
+-- Very readable at night; sometimes hard to see
+-- seconds-hand lolly.
+internal$features$<points for each>      := 10
+-- Date much appreciated.
+internal$features$overall usability      := 10
+internal$movement$quality                := 10
+internal$movement$decoration             := 8
+-- Nice enough; signed rotor with Geneva strips.
+internal$movement$power reserve          := 4
+-- Stated at 44 hours.
+internal$movement$in-house               := 0
+-- Yes, it's within-Swatch.
+internal$movement$ease of servicing      := 10
+internal$movement$sweep quality          := 9
+internal$movement$features$hacking       := 10
+internal$movement$features$hand-windable := 10
+internal$movement$sound                  := 9
+overall$concept                          := 10
+overall$execution                        := 10
+overall$versatility$of use               := 10
+overall$versatility$strap options        := 10
+overall$'K-factor'                       := 10
